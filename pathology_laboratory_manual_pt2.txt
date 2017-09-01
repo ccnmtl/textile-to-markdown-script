@@ -1,0 +1,2717 @@
+AUTHOR: zarina
+TITLE: Histological Techniques
+BASENAME: index
+STATUS: Publish
+ALLOW COMMENTS: 0
+CONVERT BREAKS: textile_2
+ALLOW PINGS: 0
+PRIMARY CATEGORY: Histological Techniques
+CATEGORY: Histological Techniques
+DATE: 07/16/2009 12:00:01 AM
+TAGS: notmodule
+-----
+BODY:
+ In order to study tissues with a microscope they must be preserved (fixed) and cut into sections thin enough to be translucent. The process of fixation is briefly described in the next section. Fundamentally it consists of a chemical or physical method of killing the tissue and yet retaining characteristic peculiarities of shape and structure. Following fixation, blocks of tissue must be cut into thin sections. One way is to make a firm block by freezing fresh or fixed tissue. Other techniques involve dehydration in alcohols and infiltration with paraffin, or some similar agent - a process called embedding. Sections 3 to 10 microns (3 to 10 thousandths of a millimeter) in thickness are cut on steel knives mounted in an instrument called a microtome, which has a precise mechanical advance.
+
+For electron microscopy the sections are considerably less than one ten-thousandth of a millimeter (0.1 micron, µm) thick. This is accomplished by embedding the tissue in a plastic such as Epon or araldite (epoxy resins) and cutting on special ultramicrotomes equipped with a fine mechanical or thermal advance. Sections are cut with glass or diamond knives and mounted on copper mesh grids.
+
+In work with the light microscope, it is difficult to recognize the various components of cells and tissues without differential staining. The stains may react chemically or physically and a wide variation is possible. The staining method can be altered to suit the needs of the examiner in order to accentuate certain tissues or organelles.
+
+Finally, in order to preserve the section which has been made from a block of fixed tissues and stained, it is mounted on a glass slide and covered with a thin cover glass by means of a transparent substance which hardens and seals the preparation to make it permanent. Some tissues are stained and then mounted. More often the tissue is placed on the slide first and then stained. The mounting medium used to attach the coverslip must have a refractive index similar to that of the glass slide and cover slip to prevent distortion.
+-----
+EXTENDED BODY:
+<!-- don't touch this code --><ol>
+<mt:Entries category="Histological Techniques" tag="techcontent" sort_order="ascend"><li><a href="<mt:EntryPermalink>"><mt:EntryTitle></a></li></mt:Entries>
+</ol><!-- don't touch this code -->
+-----
+EXCERPT:
+
+-----
+KEYWORDS:
+
+-----
+
+
+--------
+AUTHOR: zarina
+TITLE: Fixation
+BASENAME: fixation
+STATUS: Publish
+ALLOW COMMENTS: 0
+CONVERT BREAKS: textile_2
+ALLOW PINGS: 0
+PRIMARY CATEGORY: Histological Techniques
+CATEGORY: Histological Techniques
+DATE: 07/16/2009 12:10:01 AM
+TAGS: techcontent
+-----
+BODY:
+This process has two phases:
+
+# the coagulation or precipitation of the various components of the tissues and cells and
+# their preservation in a state as nearly as possible like the living condition by forming stable chemical compounds.
+
+The first phase carries with it an intrinsic source of difficulty and error. The precipitation may be uneven and cause deposits to form where no structure existed in the living cell. These are called "fixation artifacts". The second phase also carries a source of difficulty because the compounds formed by some fixatives will not take up some stains.
+
+It has not been possible to find an ideal fixative that
+
+# penetrates quickly,
+# renders all parts of all cells permanent and
+# allows the use of all kinds of stains.
+
+The reason for this is not difficult to understand. The cell is a highly complex mixture of proteins, carbohydrates and fats. The ideal fixative would not only have to form stable compounds with all of these, but also render them insoluble both in fat solvents and in water. Some fixatives not only fail to preserve certain parts of the cell but actually dissolve or destroy them. For example, acetic acid destroys mitochondria. Moreover, some fixatives change the shape and relationship of parts of a tissue by shrinkage.
+
+h2. Formalin
+
+This is a good general fixative. Its effect is to cross-link membrane proteins by forming covalent bonds. It is made by dilution of commercial formaldehyde (which is a 40% solution of formaldehyde gas in water) in an aqueous phosphate buffer. The usual strength is 10% (or 4% of the gas). It penetrates rapidly, causes little distortion, does not destroy any of the cellular constituents and can be followed by almost all staining methods. It hardens the tissues very slowly, however, and does not protect them from the shrinking agents employed in embedding and sectioning. For this reason it is often combined with other fixing agents.
+
+h2. Osmium
+
+Osmium tetroxide (OsO4) preserves the cell in a form closer to the living than any other fixative. Its great disadvantage is that it penetrates poorly and cannot be followed by many stains. It is also used as a stain because it blackens fat and various lipid-containing materials such as the myelin sheaths of nerve fibers, and makes them insoluble both in water and in fat solvents. Osmium tetroxide solution, in various buffers, is a standard fixative for electron microscopy.
+-----
+EXTENDED BODY:
+
+-----
+EXCERPT:
+
+-----
+KEYWORDS:
+
+-----
+
+
+--------
+AUTHOR: zarina
+TITLE: Embedding
+BASENAME: embedding
+STATUS: Publish
+ALLOW COMMENTS: 0
+CONVERT BREAKS: textile_2
+ALLOW PINGS: 0
+PRIMARY CATEGORY: Histological Techniques
+CATEGORY: Histological Techniques
+DATE: 07/16/2009 12:20:01 AM
+TAGS: techcontent
+-----
+BODY:
+h2. Paraffin Embedding
+
+Since water and paraffin do not mix, the first step in embedding with paraffin is to replace the water in the tissues with a solvent that is miscible with paraffin. Following are the steps in paraffin embedding:
+
+# **Dehydration** - It is the first part of the process. It is usually accomplished by transferring the block of tissue through a series of alcohol-water solutions beginning with 50 percent and running up to water-free or absolute alcohol.
+# **Clearing** - The alcohol is replaced by Histoclear (a non-toxic substitute for xylol) or cedar oil, which is readily soluble in alcohol, and in turn, is replaced by melted paraffin.
+# **Embedding** - The actual embedding takes place when the paraffin- infiltrated tissue is placed in fresh paraffin and the latter allowed to cool. It is important to remember that the xylol and other solvents will dissolve the fats of the tissues unless they are fixed by some special chemical such as osmic acid.
+
+h2. Celloidin Embedding
+
+Celloidin is dissolved in equal parts of absolute alcohol and ether. The tissue is dehydrated in alcohol in the same way as for paraffin except that it is transferred from absolute alcohol to a dilute solution of celloidin. As the alcohol and ether evaporate, they are replaced by more concentrated celloidin. It is finally hardened in chloroform and stored in 80 percent alcohol. It is a much longer process than paraffin but causes much less shrinkage and distortion. It is used especially in examination of the eye and brain.
+
+h2. Epoxy Embedding
+
+Introduction of epoxy embedding media has greatly reduced artifacts due to shrinkage and also has allowed thinner sectioning than was possible with paraffin. The thinner sections (approximately 1 u) may be viewed after staining with the light microscope or may be sectioned thinner and examined by electron microscopy.
+-----
+EXTENDED BODY:
+
+-----
+EXCERPT:
+
+-----
+KEYWORDS:
+
+-----
+
+
+--------
+AUTHOR: zarina
+TITLE: Staining
+BASENAME: staining
+STATUS: Publish
+ALLOW COMMENTS: 0
+CONVERT BREAKS: textile_2
+ALLOW PINGS: 0
+PRIMARY CATEGORY: Histological Techniques
+CATEGORY: Histological Techniques
+DATE: 07/16/2009 12:30:01 AM
+TAGS: techcontent
+-----
+BODY:
+Stains react in two general ways: 1) They combined directly with the tissue, or 2) they require that the tissues be treated first with an anchoring substance or mordant. Very few stains can be relied upon to color with the desired selectivity or intensity unless carefully controlled. This may be accomplished by stopping at the desired intensity or removing excess with another reagent.
+
+Selective stains have been found for many of the different parts of the cell and for characteristic elements in the tissues. Much of the selective action is due to the fixation and previous treatment as well as to the subsequent staining and differentiation.
+
+Impregnation is not really a staining process but it is considered as one of the staining methods. The tissues are first placed in a solution of the salt of a heavy metal. The metal is precipitated as a black deposit about certain structures. These stains are especially used for study of neurons and glia of the central nervous system.
+
+h2. Basic and Acid Dyes
+
+Basic dyes are cationic. They form salts with tissue anions (components that carry a net negative charge), especially the phosphate groups of nucleic acids and the sulfate groups of the glycosaminoglycans. _Basophilic_ is the term used to designate the components of a cell or tissue, which take up the basic stain rather than the acid stain of a combination. Nuclei are basophilic.
+
+Acid dyes are anionic. They form salts with cationic groups in cells and tissues, particularly the ionized amino groups of proteins. _Acidophilic_ or _oxyphilic_ is applied to parts, which show a greater affinity for acid dyes. The cytoplasm is usually acidophilic. Eosinophilic components are cationic compounds that have an affinity for that acid dye.
+
+Following are some terms related to dyes:
+
+* Mordants - A mordanting substance is considered part of the stain, and in this way it may change the reaction of the stain. For example, hematoxylin is an acid, but as it is almost always used in conjunction with alum or iron (the mordant) it becomes a basic stain.
+* Amphophilic - It is a term used to indicate that the tissue stains with both the basic and the acidic dyes.
+* Neutrophilic - No special affinity for either the basic or acidic components of a dye.
+* Metachromasia - It refers to the production of a color during staining which is different from the original color of the staining solution. Mast cell granules will stain a reddish-purple with toluidine blue. Metachromasia is pH dependent. Many substances are only metachromatic when stained as frozen sections. Usually they must be viewed immediately, if not sooner.
+
+-----
+EXTENDED BODY:
+
+-----
+EXCERPT:
+
+-----
+KEYWORDS:
+
+-----
+
+
+--------
+AUTHOR: zarina
+TITLE: Staining Methods Used in This Lab Collection
+BASENAME: staining_methods
+STATUS: Publish
+ALLOW COMMENTS: 0
+CONVERT BREAKS: textile_2
+ALLOW PINGS: 0
+PRIMARY CATEGORY: Histological Techniques
+CATEGORY: Histological Techniques
+DATE: 07/16/2009 12:40:01 AM
+TAGS: techcontent
+-----
+BODY:
+The following list includes the staining methods used on the slides in the loan collection. It gives a brief sketch of their selectivity, mode of action, and procedure. They are arranged in alphabetical order for ready reference. The abbreviations are those used in the catalogue of the loan collection. You are not responsible for this material.
+
+* **Acid phosphatase reaction:** This histochemical technique is used to recognize lysosomes due to their acid phosphatase content. Sections are incubated in a solution containing a lead phosphate. The phosphate is released by enzymatic activity of acid phosphatase (lysosomal enzyme) and is precipitated as lead phosphate, and is then converted to lead sulfide a black deposit.
+* **Alkaline phosphatase (Al. P):** The histochemical technique used for demonstrating the enzyme, alkaline phosphatase, blackens the cells and tissue containing the enzyme. In general, the degree of blackness is correlated with the quantity of enzyme present. Exact localization is complicated by the fact that the enzyme may shift its intracellular position during the histological procedure. Sections are incubated in a solution consisting of sodium glycerophosphate and calcium nitrate. Through the action of the phosphatase, calcium phosphate is precipitated in those regions where the enzyme is present. For visualization in sections, the calcium phosphate is converted into cobalt phosphate and finally into cobalt sulfide, which is black.
+* **Azocarmine:** Nuclei are deep red; cytoplasm is a pale red.
+* **Azure II - Eosin (Az. II. E.):** Nuclei are blue or purple. Basophilic material blue. Acidophilic material red. Red blood corpuscles orange.
+* **Berlin Blue (Prussian Blue):** An insoluble particulate iron-cyanide compound, which is used for the injection of blood and lymph vessels.
+* **Best's Carmine:** A specific stain for glycogen by which the glycogen granules are stained red. The PAS (periodic acid Schiff reaction) also colors glycogen red and is more commonly used.
+* **Bielschowsky's Silver Method:** The reticular connective tissue fibrils are black. All other structures, yellow or brown. An impregnation method, which depends on the reduction by formalin of the easily reducible silver salt, silver ammonium hydroxide.
+* **Bodian Silver method:** Metallic silver is precipitated by the action of a reducing agent (either exogenous or endogenous). The exogenous agent results in deposits on reticular fibers and portions of the junctional complex (argyrophilia). An endogenous agent results in precipitation on granules of enteroendocrine cells (the argentaffin reaction).
+* **Cajal's Silver Stain (Cajal):** Neurofibrils, axons and dendrites black. Other parts brown. The general principle of the Cajal methods (and there are many modification) is the application of photographic developers to tissues, which have been treated with silver nitrate.
+* **Chrome Hematoxylin and Phloxin:** The use of these dyes for the differential staining of the alpha and beta cells of the islets of Langerhans was described by Gomori, 1941 (Am. J. Path., Vol. 17). The granules of the beta cells are stained a deep blue; those of the alpha are pink or red. The D cells are not differentially colored.
+* **Cresyl violet:** A basic dye. See Nissl.
+* **Eosin (E):** An acid dye. Colors cytoplasm red; red blood cells, orange. Used as a counter-stain. See under H&E.
+* **Foots Silver:** This is a modification of Bielschowsky's silver method. The thin collagen or reticular fibers stain black, other tissues remain pale. Azocarmine is frequently used as a counter-stain to color the cells and collagenous tissue red.
+* **Giemsa:** Methylene blue eosinate, azure B eosinate, azure A eosinate, methylene blue chloride in methanol. Golgi Silver Method
+* <b>(Golgi):</b> A black deposit of reduced silver is laid down on the surfaces of nerve cells and neuroglia cells so that the form of the cell body and its processes stand out prominently in an almost colorless background. Only single cells here and there are selected by the stain. The method consists essentially of immersing fresh pieces of nervous tissue first in a solution of potassium dichromate (and usually osmic acid also) and then in silver nitrate.
+* **Hematoxylin and Eosin (H&E):** Hematoxylin is not a true basic dye. It is used with an intermediary, which recognizes anionic tissue components. Hematoxylin is nearly a specific stain for chromatin and it is therefore referred to as a "Basic" stain. It stains the nuclear network, chromosomes, etc., blue. It is a regressive stain and is extracted by very dilute acid or acid alcohol. It may be used after almost any fixative and is a permanent stain.<br />Eosin is a red general cytoplasmic stain. It combines with hemoglobin to give an orange color. It is an acid dye and the terms acidophilic, oxyphilic and eosinophilic are often used interchangeably. It may be used after any fixative and is used as a counter-stain in many combinations in addition to hematoxylin.
+* **Hematoxylin and Orange "G" (H & Or. G.):** Orange G. is substituted for eosin. Acid orange-G specifically stains the granules of acidophilic cells of the adenohypophysis.
+* **Hematoxylin, Picric Acid and Acid Fuchsin (H & P.A.F.):** See van Gieson.
+* **Heidenhains Iron Hematoxylin:** Chromatin material (nuclear network and chromosomes) blue black. It is a popular cytological stain, especially for the study of mitosis. It can be used after almost any fixative.
+* **Injection (Inj.):** The channels in the tissues, for example, blood and lymph vessels, are injected with a colored mass. Berlin blue in dilute gelatin is a commonly used mass.
+* **Mallory Azan:** Collagenous fibers are blue. Nuclei are red. Cytoplasmic staining varies from pink to reddish brown, depending upon the cell type.
+* **Masson's Trichrome Stain (Masson's Tri.):** Collagenous fibers blue. Muscle red. Nuclei red. The sections are first stained with hematoxylin. They are then treated with ponceau red and acid fuchsin, phosphomolybdic acid and aniline blue. You should be aware that in other laboratories light green is used in place of aniline blue.
+* **Methylene blue:** A basic dye. See Nissl.
+* **Nissl:** A method of staining nucleic acids (e.g. ribosomes, RER, heterochromatin, nucleoli). A dye such as methylene blue, toluidine blue or cresyl violet is used. Orange "G" (Or. G.): A general cytoplasmic stain similar to eosin in action. Stains cytoplasm yellow or orange.
+* **Osmic Acid or Osmium Tetroxide (OsO4):** A selective stain for unsaturated lipids and for lipoproteins such as myelin, which it stains black. Also used as a fixative, especially for electron microscopy.
+* **Periodic Acid Schiff and Hematoxylin (P.A.S. & H.):** (See Junqueira 11th pp 12-13.)<br />Carbohydrates and carbohydrate compounds may be demonstrated by this histochemical technique. Most carbohydrates react with periodic acid to produce aldehydes, which convert the colorless Schiff reagent to pink, or magenta. Hematoxylin or methyl green is used to stain the nuclei. Glycogen, mucin, elastic fibers, reticular fibers, basement membranes, thyroid colloid, basophilic granules in the pituitary gland, and other polysaccharides such as the ground substance of cartilage are stained fuchsia or pink.
+* **Phloxin:** This is a cytoplasmic stain belonging to the eosin series of dyes. It gives a reddish tone to the cytoplasm.
+* **Mallory's phosphotungstic Acid Hematoxylin (Phostung. Hem.):** Nuclei, muscle fibrils, collagenous fibers, matrix of bone and cartilage are pale red. Astrocytic glial fibrils are blue. Best after Zenker fixation.
+* **Regaud's Hematoxylin for Mitochondria:** Among the many methods used to demonstrate mitochondria by light microscopy, the most permanent and the simplest is Regaud's modification of iron hematoxylin on sections of material fixed in potassium dichromate and formalin and subsequently mordanted in dichromate. After staining, the slides are differentiated to remove the hematoxylin from most cytoplasmic components other than mitochondria. Unfortunately, the results are not uniform: some cells will be over-stained and some under-stained. Therefore a number of microscopic fields should be examined.
+* **Silver nitrate (Ag.):** The intercellular cement substance of epithelium is black. This is an impregnation method. The fresh tissue is treated with silver nitrate and exposed to strong light, which reduces the silver.
+* **Silver Method for Golgi complex:** Many methods have been used for staining the Golgi complex of the cell. One of the best methods consists of direct fixation of fresh tissue in a solution of silver nitrate in formalin, development in hydroquinone-formalin, followed by the usual procedure for paraffin embedding and sectioning. In the slides prepared for the class sets, the nuclei of the cells have been stained lightly by azocarmine.
+* **Sudan Black:** This is a stain that colors fat droplets black. There are several Sudan dyes, among which are Sudan III and Sudan IV (Scarlet R.). These stain fat droplets red as does Oil-red-O.
+* **Supravital staining:** A vital stain (e.g., trypan blue) is applied to an animal in life; a supravital stain (e.g., Janus green, neutral red) is one that is applied to cells or tissues removed from the body. See the first laboratory exercise, Introduction: Microscopy - Cytology for a description of the properties of neutral red and Janus green vis a vis particular subcellular organelles.
+* **Toluidine blue:** A basic dye. See Nissl.
+* **Van Gieson:** Collagenous fibers are yellow (e.g., dense connective tissue and bone), cartilage matrix is brown. Elastic Tissue Stain and Van Gieson's Picric Acid Fuchsin (Vieh. Van G. Verhoeff's): In Verhoeff's stain the elastic tissue is black and in this combination with Van Gieson collagenous tissue is red.
+* **Weigert's Hematoxylin (W. Hem.):** A modification of Heidenhain's iron hematoxylin. Stains the myelin sheath black.
+* **Weigert's Elastic Tissue Stain:** Elastic fibers purple or black. It is a specially prepared combination of basic fuchsin, resorcin, ferric chloride, water and alcohol.
+* **Wright's Blood Stain (Wright):** Nuclei blue or purple. Basophilic granules blue, acidophilic granules red, and neutrophilic granules reddish lilac. Red blood corpuscles orange. The eosinates of polychromed methylene blue are dissolved in absolute methyl alcohol. When this solution is placed on a dried blood smear, the methyl alcohol acts as the fixative, and the dissolved dye begins the staining process. After from one to three minutes, the stain is diluted with an equal volume of distilled water. This differentially stains the cytoplasmic granules and is allowed to act for about three minutes. It is then poured off and the preparation is washed briefly in tap water and allowed to dry.
+-----
+EXTENDED BODY:
+
+-----
+EXCERPT:
+
+-----
+KEYWORDS:
+
+-----
+
+
+--------
+AUTHOR: zarina
+TITLE: Molecular and Cellular Pathophysiology Slides for Review
+BASENAME: index
+STATUS: Publish
+ALLOW COMMENTS: 0
+CONVERT BREAKS: textile_2
+ALLOW PINGS: 0
+PRIMARY CATEGORY: 10Molecular and Cellular Pathophysiology
+CATEGORY: 10Molecular and Cellular Pathophysiology
+DATE: 07/16/2009 01:00:00 AM
+TAGS: indexpage
+-----
+BODY:
+
+-----
+EXTENDED BODY:
+<!-- don't touch this code --><ol>
+<mt:Entries category="10Molecular and Cellular Pathophysiology" tag="modcontent" sort_order="ascend"><li><a href="<mt:EntryPermalink>"><mt:EntryTitle></a></li></mt:Entries>
+</ol><!-- don't touch this code -->
+-----
+EXCERPT:
+
+-----
+KEYWORDS:
+
+-----
+
+
+--------
+AUTHOR: zarina
+TITLE: Appendix
+BASENAME: appendix
+STATUS: Publish
+ALLOW COMMENTS: 0
+CONVERT BREAKS: textile_2
+ALLOW PINGS: 0
+PRIMARY CATEGORY: 10Molecular and Cellular Pathophysiology
+CATEGORY: 10Molecular and Cellular Pathophysiology
+DATE: 07/16/2009 01:10:00 AM
+TAGS: modcontent
+-----
+BODY:
+h3. Slide #3470
+
+<div class="thumbnail"><mt:asset id="2072"> <a href="http://virtualslides.cumc.columbia.edu/3470.svs/view.apml?" target="_blank"><img alt="<mt:AssetLabel encode_html="1">" src="<mt:AssetURL>" width="170" height="126" class="mt-image-left" /></a><br /><a href="http://virtualslides.cumc.columbia.edu/3470.svs/view.apml?" target="_blank">Open with WebViewer</a> </mt:asset></div>
+
+C.C.: RLQ pain.
+H.P.I.: A 68-year-old man with a history of HTN, NIDDM presented with RLQ pain x 5 hours, increasing in severity, with fevers to 102 F. He reported one episode of non-bilious, non-bloody vomiting on the morning of admission, with continued nausea. He reported having a normal BM on the same morning, and denied a history of diarrhea, hematochezia or melena. His physical exam was notable for T 101.5, P 95, BP 140/85, R 14, a non-distended abdomen with guarding and rebound in the RLQ. Labs demonstrated an elevated WBC at 17 (nl=3.5-9.0 x 109) with a left shift, PMNs=86%, lymphs=9% (nl: PMN 40-70%, lymphs 20-50). All other lab work was within normal limits. He was taken to the OR, where an appendectomy was performed. He had a satisfactory post-operative course and was discharged home 4 days later. 
+
+h2. Questions
+
+# The changes in the appendix involve which portion or portions of the wall?
+# Examine the serosa. Describe the major pathologic findings:
+# What is the predominant inflammatory cell in the appendix in this case?
+# What is the pathogenesis of this appendiceal condition?
+# This condition is an example of which of the following: inflammation, repair or neoplasia?
+# Should this process be considered acute or chronic, and why?
+-----
+EXTENDED BODY:
+
+-----
+EXCERPT:
+
+-----
+KEYWORDS:
+
+-----
+
+
+--------
+AUTHOR: zarina
+TITLE: Liver I
+BASENAME: liver_i
+STATUS: Publish
+ALLOW COMMENTS: 0
+CONVERT BREAKS: textile_2
+ALLOW PINGS: 0
+PRIMARY CATEGORY: 10Molecular and Cellular Pathophysiology
+CATEGORY: 10Molecular and Cellular Pathophysiology
+DATE: 07/16/2009 01:20:00 AM
+TAGS: modcontent
+-----
+BODY:
+h3. Slide #3471
+
+<div class="thumbnail"><mt:asset id="2073"> <a href="http://virtualslides.cumc.columbia.edu/3471.svs/view.apml?" target="_blank"><img alt="<mt:AssetLabel encode_html="1">" src="<mt:AssetURL>" width="170" height="142" class="mt-image-left" /></a><br /><a href="http://virtualslides.cumc.columbia.edu/3471.svs/view.apml?" target="_blank">Open with WebViewer</a> </mt:asset></div>
+
+C.C.: Elevated serum liver tests 7 days after liver transplantion.
+H.P.I.: 50-year-old man with a history of chronic hepatitis C underwent a living-related donor liver transplantation. On post-op day #4 his LFT's were returning toward normal: T. Protein-5.3 (nl=6.7-8.6 g/dl), alb=3.2 (nl=4.1-5.3 g/dl), t.bili=5.4 (nl=0.3-1.30 mg/dl), d. bili=2.3 (nl=0.04-0.38 mg/dl), AST=70 (nl=12-38 U/L), ALT=202 (nl=7-41 U/L), Alk. phos.=55 (nl=33-96 U/L).
+On POD #7 his LFT's were found to be worsening and his immunosuppressants were adjusted in response to acute rejection, diagnosed on liver biopsy.
+On POD #11 his LFT's showed T. Protein=4.2, alb=3.1, t. bili=37.7, d.bili=17.0, AST=572, ALT=1750, alk.phos.=311. Ammonia was 49 (nl=11-35 µM/L). Coags remained within normal limits. Diagnostic USG of the abdomen was performed but could not demonstrate the hepatic artery, despite repeated attempts. Hepatic artery thrombosis with liver infarct was presumed and the patient subsequently underwent a repeat, cadaveric liver transplantation.
+
+h2. Questions
+
+# There are striking regional differences in the staining and other changes in this slide of liver. Describe them.
+# In the large area where hepatocytes are no longer visible, what pathologic process has occurred?
+# In light of the clinical history, particularly the evidence of hepatic artery thrombosis, describe the sequence of events that led to the pathologic changes in the liver
+# In the region of preserved liver parenchyma, what pathologic changes have occurred and what region(s) of the liver is (are) involved (i.e., centrilobular, midzonal, periportal)?
+# Which basic type of cell injury is demonstrated in this case?
+-----
+EXTENDED BODY:
+
+-----
+EXCERPT:
+
+-----
+KEYWORDS:
+
+-----
+
+
+--------
+AUTHOR: zarina
+TITLE: Liver II
+BASENAME: liver_ii
+STATUS: Publish
+ALLOW COMMENTS: 0
+CONVERT BREAKS: textile_2
+ALLOW PINGS: 0
+PRIMARY CATEGORY: 10Molecular and Cellular Pathophysiology
+CATEGORY: 10Molecular and Cellular Pathophysiology
+DATE: 07/16/2009 01:30:00 AM
+TAGS: modcontent
+-----
+BODY:
+h3. Slide #3472
+
+<div class="thumbnail"><mt:asset id="2074"> <a href="Phttp://virtualslides.cumc.columbia.edu/3472.svs/view.apml?" target="_blank"><img alt="<mt:AssetLabel encode_html="1">" src="<mt:AssetURL>" width="170" height="126" class="mt-image-left" /></a><br /><a href="http://virtualslides.cumc.columbia.edu/3472.svs/view.apml?" target="_blank">Open with WebViewer</a> </mt:asset></div>
+
+This 54 year old woman underwent an orthotopic liver transplant for autoimmune chronic hepatitis with cirrhosis. Her liver disease dated back three years when she presented with fatigue and abnormal bleeding. At that time her blood tests showed elevated serum aminotransferases AST (aspartate aminotransferase) and ALT (alanine aminotransferase) of 234 U/L and 303 U/L (both normal levels are <40). Her total serum bilirubin was 5.6 mg/dl (normal <1.0) and her albumin was low at 3.0 g/dl (normal >3.5). Her serum alkaline phosphatase was normal at 36 U/L (normal <110). After a comprehensive workup including serologic exclusion of chronic hepatitis B and C, as well as any history of possible chronic medication-related liver injury, a panel of autoantibodies was obtained and a striking elevation of serum anti-nuclear antibody of 1:1280 was found. A liver biopsy showed chronic hepatitis with moderate activity and developing cirrhosis.
+
+h2. Questions
+
+# Examine the architecture of this section of the explanted liver. How does it compare to normal liver, and what diagnosis would you render?
+# What are the predominant inflammatory cells present, and where are they located?
+# If this is "autoimmune" chronic hepatitis and cirrhosis, describe the etiopathogenesis of this process.
+# What other conditions may show general pathologic similarities to that seen in this case?
+# What basic pathologic process does this case demonstrate?
+
+-----
+EXTENDED BODY:
+
+-----
+EXCERPT:
+
+-----
+KEYWORDS:
+
+-----
+
+
+--------
+AUTHOR: zarina
+TITLE: Ovarian Tumor
+BASENAME: ovarian_tumor
+STATUS: Publish
+ALLOW COMMENTS: 0
+CONVERT BREAKS: textile_2
+ALLOW PINGS: 0
+PRIMARY CATEGORY: 10Molecular and Cellular Pathophysiology
+CATEGORY: 10Molecular and Cellular Pathophysiology
+DATE: 07/16/2009 01:40:00 AM
+TAGS: modcontent
+-----
+BODY:
+h3. Slide #3473
+
+<div class="thumbnail"><mt:asset id="2075"> <a href="http://virtualslides.cumc.columbia.edu/3473.svs/view.apml?" target="_blank"><img alt="<mt:AssetLabel encode_html="1">" src="<mt:AssetURL>" width="170" height="126" class="mt-image-left" /></a><br /><a href="http://virtualslides.cumc.columbia.edu/3473.svs/view.apml?" target="_blank">Open with WebViewer</a> </mt:asset></div>
+
+The patient is a 13-year-old girl who was referred from her primary care physician for an ovarian mass which was discovered on a routine physical exam with no associated symptoms or complaints of abdominal pain. Her serum HCG was less than 2 (nl <5 in non-pregnant females) and her serum alphafetoprotein (AFP) was 1 (nl 0-8.5 ng/ml). CT scan of the abdomen and pelvis revealed a large right ovarian mass with fluid in it. The patient had a unilateral oophorectomy on 8/3/00 at CPMC with a satisfactory post-op course and was discharged three days later.<br clear="all" />
+
+h2. Questions
+
+# Can you identify normal ovarian tissue in this specimen?
+# What histologic tissues are present?
+# From the histologic features, is this a benign or a malignant tumor? What criteria should you use to make this decision?
+# What types of tumors occur in the ovary?
+# The best name for this tumor is ________
+-----
+EXTENDED BODY:
+
+-----
+EXCERPT:
+
+-----
+KEYWORDS:
+
+-----
+
+
+--------
+AUTHOR: zarina
+TITLE: Lung-Pneumonectomy 
+BASENAME: lung_pneumonectomy
+STATUS: Publish
+ALLOW COMMENTS: 0
+CONVERT BREAKS: textile_2
+ALLOW PINGS: 0
+PRIMARY CATEGORY: 10Molecular and Cellular Pathophysiology
+CATEGORY: 10Molecular and Cellular Pathophysiology
+DATE: 07/16/2009 01:50:00 AM
+TAGS: modcontent
+-----
+BODY:
+h3. Slide #3481
+
+<div class="thumbnail"><mt:asset id="2081"> <a href="http://virtualslides.cumc.columbia.edu/3481.svs/view.apml?" target="_blank"><img alt="<mt:AssetLabel encode_html="1">" src="<mt:AssetURL>" width="170" height="126" class="mt-image-left" /></a><br /><a href="http://virtualslides.cumc.columbia.edu/3481.svs/view.apml?" target="_blank">Open with WebViewer</a> </mt:asset></div>
+
+The patient is a 70-year-old smoker with a past medical history significant for lung cancer, treated with a wedge resection in 1997, and emphysema. He presented to the ER with hemoptysis. Exam revealed a temperature of 100.2 F and WBC of 13.9. CT scan of the chest showed a mass in the left hilum. He was taken to the OR and a left pneumonectomy was performed. The patient's recovery was unremarkable and he was discharged home to Turkey.<br clear="all" />
+
+h2. Questions
+
+# What is the predominant tissue in the slide?<br />Do you recognize some of the normal pulmonary tissue landmarks?
+# Is the tumor in this slide benign or malignant? Is it of epithelial or mesenchymal origin?
+# What is the pathogenesis of this tumor?
+# In which anatomic region of the tracheobronchial tree does this tumor usually arise?
+-----
+EXTENDED BODY:
+
+-----
+EXCERPT:
+
+-----
+KEYWORDS:
+
+-----
+
+
+--------
+AUTHOR: zarina
+TITLE: Gastric Tumor - Intraperitoneal Metastases
+BASENAME: gastric_tumor
+STATUS: Publish
+ALLOW COMMENTS: 0
+CONVERT BREAKS: textile_2
+ALLOW PINGS: 0
+PRIMARY CATEGORY: 10Molecular and Cellular Pathophysiology
+CATEGORY: 10Molecular and Cellular Pathophysiology
+DATE: 07/16/2009 01:50:20 AM
+TAGS: modcontent
+-----
+BODY:
+h3. Slide #3476
+
+<div class="thumbnail"><mt:asset id="2077"> <a href="http://virtualslides.cumc.columbia.edu/3476.svs/view.apml?" target="_blank"><img alt="<mt:AssetLabel encode_html="1">" src="<mt:AssetURL>" width="170" height="126" class="mt-image-left" /></a><br /><a href="http://virtualslides.cumc.columbia.edu/3476.svs/view.apml?" target="_blank">Open with WebViewer</a> </mt:asset></div>
+
+The patient is a 67-year-old woman who presented in 1997 with abdominal pain and "feeling full" after meals. CT scan had demonstrated a mass, which was biopsied, leading to a partial gastrectomy. She returned to the OR in 1998 for resection of tumor metastases from the abdominal wall and liver and again in 1999 for resection of metastases in the pancreas and liver. In the summer of 2000, additional local intra-abdominal recurrences were resected. The recurrent intraperitoneal tumor is the source for the tissue on this slide.<br clear="all" />
+
+h2. Questions
+
+# What are the cytologic features of the constituent cells of this tumor?
+# Based on these features, is the tumor of epithelial or mesenchymal origin?
+# Is the tumor benign or malignant? What criteria did you use to determine this?
+# Which is the appropriate term for this tumor?
+# Since this tumor first arose in the stomach, what part of the stomach wall gave rise to the tumor? Is this a common or uncommon gastric tumor? What is the most common benign tumor? And malignant tumor?
+-----
+EXTENDED BODY:
+
+-----
+EXCERPT:
+
+-----
+KEYWORDS:
+
+-----
+
+
+--------
+AUTHOR: zarina
+TITLE: Cardiovascular Pathology Slides for Review
+BASENAME: index
+STATUS: Publish
+ALLOW COMMENTS: 0
+CONVERT BREAKS: textile_2
+ALLOW PINGS: 0
+PRIMARY CATEGORY: 04Cardiovascular
+CATEGORY: 04Cardiovascular
+DATE: 07/16/2009 02:00:00 AM
+TAGS: indexpage
+-----
+BODY:
+
+-----
+EXTENDED BODY:
+<!-- don't touch this code --><ol>
+<mt:Entries category="04Cardiovascular" tag="modcontent" sort_order="ascend"><li><a href="<mt:EntryPermalink>"><mt:EntryTitle></a></li></mt:Entries>
+</ol><!-- don't touch this code -->
+-----
+EXCERPT:
+
+-----
+KEYWORDS:
+
+-----
+
+
+--------
+AUTHOR: zarina
+TITLE: Atherosclerosis of Right Coronary Artery, with Recent Intra-mural Plaque Rupture
+BASENAME: atherosclerosis
+STATUS: Publish
+ALLOW COMMENTS: 0
+CONVERT BREAKS: textile_2
+ALLOW PINGS: 0
+PRIMARY CATEGORY: 04Cardiovascular
+CATEGORY: 04Cardiovascular
+DATE: 07/16/2009 02:10:00 AM
+TAGS: modcontent
+-----
+BODY:
+h3. Slide Heart Path #1
+
+<div class="thumbnail"><mt:asset id="2089"> <a href="http://virtualslides.cumc.columbia.edu/Heart%20Path%2001.svs/view.apml?" target="_blank"><img alt="<mt:AssetLabel encode_html="1">" src="<mt:AssetURL>" width="170" height="119" class="mt-image-left" /></a><br /><a href="http://virtualslides.cumc.columbia.edu/Heart%20Path%2001.svs/view.apml?" target="_blank">Open with WebViewer</a> </mt:asset></div>
+
+Atherosclerosis of right coronary artery, with recent intra-mural plaque rupture.
+This section is from the postmortem heart specimen of a 36 year old man who had undergone a left internal mammary artery -to-left anterior descending coronary artery bypass (CABG) two weeks before his death. Following the bypass, he was re-admitted two weeks later complaining of dyspnea on exertion and intermittent left shoulder pain. Evidence of continued cardiac dysfunction proceeded during his several day admission, with prolonged hypotension and anuric acute renal failure. At autopsy the heart showed myocardial infarcts of various microscopic ages and severe atherosclerosis of right and left coronary arteries. This section shows the right ventricular muscle and right coronary artery.<br clear="all" />
+
+h2. Question
+
+# Given the clinical information, which risks for atherosclerosis would you suspect might be present in this patient?
+# Which layer of the coronary artery seen in cross-section is most severely affected?
+What changes are present in this layer?
+# In light of the microscopic lesion in this coronary, what major complication might occur in such a coronary artery?
+# In looking at the slide and the entire wall of the heart muscle itself, which portion of the muscle (endocardium-myocardium-epicardium) shows the most severe changes (and what are the changes)?
+-----
+EXTENDED BODY:
+
+-----
+EXCERPT:
+
+-----
+KEYWORDS:
+
+-----
+
+
+--------
+AUTHOR: zarina
+TITLE: Coronary Atherosclerosis
+BASENAME: coronary_atherosclerosis
+STATUS: Publish
+ALLOW COMMENTS: 0
+CONVERT BREAKS: textile_2
+ALLOW PINGS: 0
+PRIMARY CATEGORY: 04Cardiovascular
+CATEGORY: 04Cardiovascular
+DATE: 07/16/2009 02:15:00 AM
+TAGS: modcontent
+-----
+BODY:
+h3. Slide #7
+
+<div class="thumbnail"><mt:asset id="2078"> <a href="http://virtualslides.cumc.columbia.edu/3477.svs/view.apml?" target="_blank"><img alt="<mt:AssetLabel encode_html="1">" src="<mt:AssetURL>" width="170" height="131" class="mt-image-left" /></a><br /><a href="http://virtualslides.cumc.columbia.edu/3477.svs/view.apml?" target="_blank">Open with WebViewer</a> </mt:asset></div>
+
+This 56-year-old man had a history of hypertension, hypercholesterolemia, type II diabetes mellitus and severe coronary artery disease, with prior surgery for multiple bypass grafts. He died of an acute myocardial infarction, characterised by acute chest pain with elevated cardiac enzymes (CK=485, LDH=216 and troponin 1=79.9)
+
+This section shows epicardial fat, cross sections of the left anterior descending coronary artery (and several smaller arterial branches). The atherosclerotic plaque within the coronary artery shows several constituents, including cholesterol clefts, fibrosis and calcification. Note also the thrombotic material (with lines of Zahn--platelets and fibrin alternating with red blood cells) which was found in the aneurysmal dilatation of the aortic sinus (sinus of Valsalva). The wall around the thrombus shows haemorrhages and calcification.<br clear="all" />
+
+h2. Checklist: Have you identified
+
+(checklist)* Coronary Artery with plaque
+* Cholesterol clefts
+* Calcification
+* Fibrosis
+
+h2. Questions
+
+# What is the definition of "critical stenosis" of a coronary artery (the point at which symptomatic ischemic heart disease develops)?
+# In addition to fixed atherosclerotic plaques in the coronary arteries, what are the other superimposed lesions that may play a role in developing myocardial ischemia?
+-----
+EXTENDED BODY:
+
+-----
+EXCERPT:
+
+-----
+KEYWORDS:
+
+-----
+
+
+--------
+AUTHOR: zarina
+TITLE: Acute Myocardial Infarction
+BASENAME: acute_myocardial_infarction
+STATUS: Publish
+ALLOW COMMENTS: 0
+CONVERT BREAKS: textile_2
+ALLOW PINGS: 0
+PRIMARY CATEGORY: 04Cardiovascular
+CATEGORY: 04Cardiovascular
+DATE: 07/16/2009 02:20:00 AM
+TAGS: modcontent
+-----
+BODY:
+h3. Slide #7a
+
+<div class="thumbnail"><mt:asset id="2080"> <a href="http://virtualslides.cumc.columbia.edu/3480.svs/view.apml?" target="_blank"><img alt="<mt:AssetLabel encode_html="1">" src="<mt:AssetURL>" width="170" height="146" class="mt-image-left" /></a><br /><a href="http://virtualslides.cumc.columbia.edu/3480.svs/view.apml?" target="_blank">Open with WebViewer</a> </mt:asset></div>
+
+This 62-year-old man underwent heart transplantation for endstage ischemic heart disease. The explant heart grossly showed severe multi-vessel coronary artery disease with grey white patches of scar tissue throughout the ventricular septum and anterior and lateral walls of the left ventricle. Multiple foci of pale myocardium were noted in the anterior wall, which were sampled for microscopy.
+
+This section shows myocardium with broad areas of fibrosis (due to prior ischemia and infarction). The acutely infracted tissue is recognised on low power by several features, which are each related to the age of the infarct: hypereosinophilic myocytes, myocytes without nuclei and/or without cross-striations, myocytes with contraction bands (due to reperfusion injury) and early neutrophil infiltrates near myocytes with the preceding changes.<br clear="all" />
+
+h2. Checklist: Have you identified
+
+(checklist)* Necrotic myocytes
+* Neutrophils
+* Contraction bands
+* Fibrous scars
+
+h2. Questions
+
+Outline the time course and histologic changes in myocardial infarction from the first hours to 6 weeks later.
+-----
+EXTENDED BODY:
+
+-----
+EXCERPT:
+
+-----
+KEYWORDS:
+
+-----
+
+
+--------
+AUTHOR: zarina
+TITLE: Healed Myocardial Infarct, with Myocardial Hypertrophy
+BASENAME: healed_myocardial_infarction
+STATUS: Publish
+ALLOW COMMENTS: 0
+CONVERT BREAKS: textile_2
+ALLOW PINGS: 0
+PRIMARY CATEGORY: 04Cardiovascular
+CATEGORY: 04Cardiovascular
+DATE: 07/16/2009 02:25:00 AM
+TAGS: modcontent
+-----
+BODY:
+h3. Slide #8
+
+<div class="thumbnail"><mt:asset id="2079"> <a href="http://virtualslides.cumc.columbia.edu/3479.svs/view.apml?" target="_blank"><img alt="<mt:AssetLabel encode_html="1">" src="<mt:AssetURL>" width="170" height="164" class="mt-image-left" /></a><br /><a href="http://virtualslides.cumc.columbia.edu/3479.svs/view.apml?" target="_blank">Open with WebViewer</a> </mt:asset></div>
+
+This slide comes from the post-mortem of the 56-year-old man described in slide #2. He had had multiple previous myocardial infarctions and was known to have multi-vessel coronary atherosclerosis, S/P bypass. At autopsy, there were multiple pale white-grey regions consistent with scars.
+
+Broad, perivascular regions of fibrosis have replaced myocardium. The longitudinally-cut residual, viable myocytes show hypertrophy, characterised by fiber thickening and change of the nuclei from spindle - or cigar shaped - to "box car" like (rectangular). The fibrous tissue shows relatively few spindle cell nuclei of fibroblasts and large masses of pink collagen fibers.<br clear="all" />
+
+h2. Checklist: Have you identified
+
+(checklist)* boxcar nuclei in hypertrophied myocytes
+* collagen fibers
+* nuclei of fibroblasts
+-----
+EXTENDED BODY:
+
+-----
+EXCERPT:
+
+-----
+KEYWORDS:
+
+-----
+
+
+--------
+AUTHOR: zarina
+TITLE: Myocarditis
+BASENAME: myocarditis
+STATUS: Publish
+ALLOW COMMENTS: 0
+CONVERT BREAKS: textile_2
+ALLOW PINGS: 0
+PRIMARY CATEGORY: 04Cardiovascular
+CATEGORY: 04Cardiovascular
+DATE: 07/16/2009 02:30:00 AM
+TAGS: modcontent
+-----
+BODY:
+h3. Slide #9
+
+<div class="thumbnail"><mt:asset id="2076"> <a href="http://virtualslides.cumc.columbia.edu/3475.svs/view.apml?" target="_blank"><img alt="<mt:AssetLabel encode_html="1">" src="<mt:AssetURL>" width="170" height="159" class="mt-image-left" /></a><br /><a href="http://virtualslides.cumc.columbia.edu/3475.svs/view.apml?" target="_blank">Open with WebViewer</a> </mt:asset></div>
+
+This 54-year-old man had a 5 year history of amyotrophic lateral sclerosis (ALS). He had been in relatively good condition until the past year, during which he had developed multiple episodes of pneumonia and required nursing home care. He was receiving an experimental protocol agent for ALS at the time of his death. The heart grossly showed no abnormalities.
+
+There is widespread microscopic infiltration of the myocardium by inflammatory cells, an intermixture of neutrophils and lymphocytes. The inflammation is seen within the interstitial connective tissue and also surrounding myocytes, which are undergoing degeneration (appearing fragmented and partly eroded). Note, that in distinction to acute myocardial infarction, the nuclei of myocytes are intact and coagulative necrosis has not occurred.<br clear="all" />
+
+h2. Checklist: Have you identified
+
+(checklist)* myocyte breakdown
+* inflammation in the interstitium
+* neutrophils and lymphocytes specifically
+* inflammation around degenerating myocytes
+
+h2. Questions
+
+# What are the major causes of myocarditis?
+# How can the various causes be histologically differentiated?
+-----
+EXTENDED BODY:
+
+-----
+EXCERPT:
+
+-----
+KEYWORDS:
+
+-----
+
+
+--------
+AUTHOR: zarina
+TITLE: Amyloidosis
+BASENAME: amyloidosis
+STATUS: Publish
+ALLOW COMMENTS: 0
+CONVERT BREAKS: textile_2
+ALLOW PINGS: 0
+PRIMARY CATEGORY: 04Cardiovascular
+CATEGORY: 04Cardiovascular
+DATE: 07/16/2009 02:35:00 AM
+TAGS: modcontent
+-----
+BODY:
+h3. Slide #10
+
+<div class="thumbnail"><mt:asset id="2082"> <a href="http://virtualslides.cumc.columbia.edu/6836.svs/view.apml?" target="_blank"><img alt="<mt:AssetLabel encode_html="1">" src="<mt:AssetURL>" width="170" height="128" class="mt-image-left" /></a><br /><a href="http://virtualslides.cumc.columbia.edu/6836.svs/view.apml?" target="_blank">Open with WebViewer</a> </mt:asset></div>
+
+This 91-year-old female had a history of hypertension, type II diabetes mellitus, congestive heart failure and atrial fibrillation. She was found unresponsive by the staff of the nursing home in which she resided, and was brought to CPMC by EMS. Resuscitation attempts were unsuccessful.
+
+The myocardium in this section is widely infiltrated by an amorphous, pink extracellular material (amyloid). Broad fields and aggregates of amyloid separate myocytes, in some instances extremely widely. In contrast to fibrous tissue (scar) note that there are no cell nuclei within the amorphous protein aggregates, and the amyloid is not well resolved microscopically into fibrils or filaments (this would be seen on transmission electron microscopy).<br clear="all" />
+
+h2. Checklist: Have you identified
+
+(checklist)* amyloid in the interstitial spaces
+* myocytes
+
+h2. Questions
+
+#  Define "amyloidosis"
+#  What are the main types of amyloidosis?
+#  How does the pathologist document that the extracellular material is amyloid?
+#  What type of amyloid was probably present in this patient?
+-----
+EXTENDED BODY:
+
+-----
+EXCERPT:
+
+-----
+KEYWORDS:
+
+-----
+
+
+--------
+AUTHOR: zarina
+TITLE: Acute Endocarditis
+BASENAME: endocarditis
+STATUS: Publish
+ALLOW COMMENTS: 0
+CONVERT BREAKS: textile_2
+ALLOW PINGS: 0
+PRIMARY CATEGORY: 04Cardiovascular
+CATEGORY: 04Cardiovascular
+DATE: 07/16/2009 02:40:00 AM
+TAGS: modcontent
+-----
+BODY:
+h3. Slide #11
+
+<div class="thumbnail"><mt:asset id="2083"> <a href="http://virtualslides.cumc.columbia.edu/6843.svs/view.apml?" target="_blank"><img alt="<mt:AssetLabel encode_html="1">" src="<mt:AssetURL>" width="170" height="139" class="mt-image-left" /></a><br /><a href="http://virtualslides.cumc.columbia.edu/6843.svs/view.apml?" target="_blank">Open with WebViewer</a> </mt:asset></div>
+
+This 64-year-old man had diabetes for 10 years, poorly controlled with oral hypoglycemics. He had developed multiple, non-healing ulcers on his foot and was admitted for debridement of these, but developed septic shock. Amputation of the left lower leg was required, and one week later he developed myocardial infarction, cerebellar haemorrhage with multiple infarcts and left lateral ventricular subarachnoid haemorrhage, which directly caused his death. At autopsy there was acute endocarditis of the mitral valve and a valvular ring abscess, though to have directly contributed to septic emboli to the coronary artery, central nervous system and (at autopsy) to the kidney (with a recent infarct on gross exam).
+
+This slide shows the mitral valve with vegetations composed of baterial colonies, thrombotic material and neutrophils. Note that the inflammation also extends through the valve substance deeply into the underlying myocardium. On high power, the bacterial colonies stain blue and individual cocci can be delineated (without using the oil lens!). If your slide contains a longitudinal section through the valve, note the fibrosa and spongiosa layers if possible.
+
+h2. Checklist: Have you identified
+
+(checklist)* bacterial colonies
+* thrombotic material (fibrin, platelets and red blood cells)
+* underlying valve tissue (fibrosa, spongiosa layers)
+* extension of the infection into the myocardium
+
+h2. Questions
+
+#  What were this patient's risk factors for acute endocarditis?
+#  What were the most likely results of blood cultures?
+#  Is mitral valve involvement common in infective endocarditis? What are the most commonly involved valves?
+-----
+EXTENDED BODY:
+
+-----
+EXCERPT:
+
+-----
+KEYWORDS:
+
+-----
+
+
+--------
+AUTHOR: zarina
+TITLE: Pulmonary
+BASENAME: index
+STATUS: Publish
+ALLOW COMMENTS: 0
+CONVERT BREAKS: textile_2
+ALLOW PINGS: 0
+PRIMARY CATEGORY: 05Pulmonary
+CATEGORY: 05Pulmonary
+DATE: 07/16/2009 03:00:00 AM
+TAGS: indexpage
+-----
+BODY:
+
+-----
+EXTENDED BODY:
+<!-- don't touch this code --><ol>
+<mt:Entries category="05Pulmonary" tag="modcontent" sort_order="ascend"><li><a href="<mt:EntryPermalink>"><mt:EntryTitle></a></li></mt:Entries>
+</ol><!-- don't touch this code -->
+-----
+EXCERPT:
+
+-----
+KEYWORDS:
+
+-----
+
+
+--------
+AUTHOR: zarina
+TITLE: Sarcoidosis with Interstitial Lung Disease and Hilar Lymphadenopathy
+BASENAME: sarcoidosis
+STATUS: Publish
+ALLOW COMMENTS: 0
+CONVERT BREAKS: textile_2
+ALLOW PINGS: 0
+PRIMARY CATEGORY: 05Pulmonary
+CATEGORY: 05Pulmonary
+DATE: 07/16/2009 03:05:00 AM
+TAGS: modcontent
+-----
+BODY:
+h3. Slide #14
+
+<div class="thumbnail"><mt:asset id="2102"> <a href="http://virtualslides.cumc.columbia.edu/Lung%20Path%2001.svs/view.apml?" target="_blank"><img alt="<mt:AssetLabel encode_html="1">" src="<mt:AssetURL>" width="170" height="104" class="mt-image-left" /></a><br /><a href="http://virtualslides.cumc.columbia.edu/Lung%20Path%2001.svs/view.apml?" target="_blank">Open with WebViewer</a> </mt:asset></div>
+
+This postmortem lung section came from a 28-year-old woman with a 3-year history of severe pulmonary sarcoidosis. She had developed diffuse reticulonodular densities in both lungs over a period of one and a half years. This was accompanied by increasing dyspnea and diminished exercise tolerance, despite steroid therapy. At her terminal admission she was hypoxic and hypercapneic despite intubation, and she suffered a cardiopulmonary arrest.<br clear="all" />
+
+h2. Questions
+
+# The major pathologic lesions in this section are located where? 
+# The lymph node, in contrast to the tuberculous lymph node of Slide #4, shows what lesion(s)?
+# What percentage of individuals with sarcoidosis pursue this type of clinical course? 
+# What other organs were likely to be involved histologically by this granulomatous process? 
+# If no historical information were provided about this case, based on the lung pathology alone, what differential diagnosis should be raised? 
+-----
+EXTENDED BODY:
+
+-----
+EXCERPT:
+
+-----
+KEYWORDS:
+
+-----
+
+
+--------
+AUTHOR: zarina
+TITLE: Emphysema
+BASENAME: emphysema
+STATUS: Publish
+ALLOW COMMENTS: 0
+CONVERT BREAKS: textile_2
+ALLOW PINGS: 0
+PRIMARY CATEGORY: 05Pulmonary
+CATEGORY: 05Pulmonary
+DATE: 07/16/2009 03:10:00 AM
+TAGS: modcontent
+-----
+BODY:
+h3. Slide #15
+
+<div class="thumbnail"><mt:asset id="2103"> <a href="http://virtualslides.cumc.columbia.edu/Lung%20Path%2002.svs/view.apml?" target="_blank"><img alt="<mt:AssetLabel encode_html="1">" src="<mt:AssetURL>" width="170" height="133" class="mt-image-left" /></a><br /><a href="http://virtualslides.cumc.columbia.edu/Lung%20Path%2002.svs/view.apml?" target="_blank">Open with WebViewer</a> </mt:asset></div>
+
+This woman was in her 60's and a long time smoker. The typical changes of emphysema include dilated alveoli and ruptured alveolar septa (walls) with "clubbing" of the ends of the alveolar walls at the sites of rupture.<br clear="all" />
+
+h2. Questions
+
+# The leading causes of this histologic picture are: 
+# What histologic (and gross) feature is most likely to accompany emphysema? 
+# How are the types of emphysema classified?
+-----
+EXTENDED BODY:
+
+-----
+EXCERPT:
+
+-----
+KEYWORDS:
+
+-----
+
+
+--------
+AUTHOR: zarina
+TITLE: Bronchioloalveolar Carcinoma
+BASENAME: bronchioloalveolar_carcinoma
+STATUS: Publish
+ALLOW COMMENTS: 0
+CONVERT BREAKS: textile_2
+ALLOW PINGS: 0
+PRIMARY CATEGORY: 05Pulmonary
+CATEGORY: 05Pulmonary
+DATE: 07/16/2009 03:15:00 AM
+TAGS: modcontent
+-----
+BODY:
+h3. Slide #16
+
+<div class="thumbnail"><mt:asset id="2104"> <a href="http://virtualslides.cumc.columbia.edu/Lung%20Path%2003.svs/view.apml?" target="_blank"><img alt="<mt:AssetLabel encode_html="1">" src="<mt:AssetURL>" width="170" height="141" class="mt-image-left" /></a><br /><a href="http://virtualslides.cumc.columbia.edu/Lung%20Path%2003.svs/view.apml?" target="_blank">Open with WebViewer</a> </mt:asset></div>
+
+A 58-year-old woman presented with a cough for 5 months and a patchy, diffuse opacity to the right lower lobe. A diagnostic bronchoscopy was performed which demonstrated bronchoaleolar (bronchiolalveolar) carcinoma, and a right lower lobe resection was undertaken.<br clear="all" />
+
+h2. Questions
+
+# What major category of malignant lung tumour does this fall under? 
+# What is believed to be the cell of origin? 
+# Does this tumour resemble any animal model? 
+-----
+EXTENDED BODY:
+
+-----
+EXCERPT:
+
+-----
+KEYWORDS:
+
+-----
+
+
+--------
+AUTHOR: zarina
+TITLE: Tuberculous Pneumonitis and Lymphadenitis
+BASENAME: tuberculous
+STATUS: Publish
+ALLOW COMMENTS: 0
+CONVERT BREAKS: textile_2
+ALLOW PINGS: 0
+PRIMARY CATEGORY: 05Pulmonary
+CATEGORY: 05Pulmonary
+DATE: 07/16/2009 03:20:00 AM
+TAGS: modcontent
+-----
+BODY:
+h3. Slide #13
+
+<div class="thumbnail"><mt:asset id="2105"> <a href="http://virtualslides.cumc.columbia.edu/Lung%20Path%2004.svs/view.apml?" target="_blank"><img alt="<mt:AssetLabel encode_html="1">" src="<mt:AssetURL>" width="170" height="102" class="mt-image-left" /></a><br /><a href="http://virtualslides.cumc.columbia.edu/Lung%20Path%2004.svs/view.apml?" target="_blank">Open with WebViewer</a> </mt:asset></div>
+
+A 26-year-old Parisian seamstress had been coughing up blood for a number of months and developed fluctuating fevers, shortness of breath and episodes of fainting. She refused medical help and was treated by a poet with patent medicines. Her symptoms increased and she died suddenly in the apartment of a friend.
+
+*<i>Note that this slide includes both lung tissue and a hilar lymph node.</i><br clear="all" />
+
+h2. Questions
+
+# What were the accompanying gross changes in this lung, based on the microscopic features? 
+# What histologic changes support the diagnosis of tuberculosis? 
+# What is the difference between a Langhans type giant cell and a foreign body giant cell? 
+# What other condition was presumably present at the time of death in this patient, based on the lung tissue microscopic findings? 
+-----
+EXTENDED BODY:
+
+-----
+EXCERPT:
+
+-----
+KEYWORDS:
+
+-----
+
+
+--------
+AUTHOR: zarina
+TITLE: Bronchopneumonia
+BASENAME: bronchopneumonia
+STATUS: Publish
+ALLOW COMMENTS: 0
+CONVERT BREAKS: textile_2
+ALLOW PINGS: 0
+PRIMARY CATEGORY: 05Pulmonary
+CATEGORY: 05Pulmonary
+DATE: 07/16/2009 03:25:00 AM
+TAGS: modcontent
+-----
+BODY:
+h3. Slide #12
+
+<div class="thumbnail"><mt:asset id="2106"> <a href="http://virtualslides.cumc.columbia.edu/Lung%20Path%2005.svs/view.apml?" target="_blank"><img alt="<mt:AssetLabel encode_html="1">" src="<mt:AssetURL>" width="170" height="127" class="mt-image-left" /></a><br /><a href="http://virtualslides.cumc.columbia.edu/Lung%20Path%2005.svs/view.apml?" target="_blank">Open with WebViewer</a> </mt:asset></div>
+
+This section of lung was obtained at the autopsy of a 62-year-old man who had been admitted with an acute myocardial infarction. During a two week hospitalisation he had developed several cardiac arrhythmias, left ventricular failure and chest X-ray evidence of pulmonary infiltrates. He became progressively hypoxic and suffered a cardiopulmonary arrest on the 12 th hospital day.<br clear="all" />
+
+h2. Questions
+
+# What are the two most striking changes in this lung tissue on low power? 
+# What is the predominant inflammatory cell in this section? 
+# What is the pathogenesis of this patient's pneumonia? 
+-----
+EXTENDED BODY:
+
+-----
+EXCERPT:
+
+-----
+KEYWORDS:
+
+-----
+
+
+--------
+AUTHOR: zarina
+TITLE: Liver
+BASENAME: index
+STATUS: Publish
+ALLOW COMMENTS: 0
+CONVERT BREAKS: textile_2
+ALLOW PINGS: 0
+PRIMARY CATEGORY: 06Liver
+CATEGORY: 06Liver
+DATE: 07/16/2009 04:00:00 AM
+TAGS: indexpage
+-----
+BODY:
+
+-----
+EXTENDED BODY:
+<!-- don't touch this code --><ol>
+<mt:Entries category="06Liver" tag="modcontent" sort_order="ascend"><li><a href="<mt:EntryPermalink>"><mt:EntryTitle></a></li></mt:Entries>
+</ol><!-- don't touch this code -->
+-----
+EXCERPT:
+
+-----
+KEYWORDS:
+
+-----
+
+
+--------
+AUTHOR: zarina
+TITLE: Chronic Hepatitis B with Minimal Activity and no Fibrosis
+BASENAME: chronic_hepatitis_b
+STATUS: Publish
+ALLOW COMMENTS: 0
+CONVERT BREAKS: textile_2
+ALLOW PINGS: 0
+PRIMARY CATEGORY: 06Liver
+CATEGORY: 06Liver
+DATE: 07/16/2009 04:05:00 AM
+TAGS: modcontent
+-----
+BODY:
+<div class="thumbnail"><mt:asset id="2097"> <a href="http://virtualslides.cumc.columbia.edu/Liver%20Path%2001.svs/view.apml?" target="_blank"><img alt="<mt:AssetLabel encode_html="1">" src="<mt:AssetURL>" width="170" height="143" class="mt-image-left" /></a><br /><a href="http://virtualslides.cumc.columbia.edu/Liver%20Path%2001.svs/view.apml?" target="_blank">Open with WebViewer</a> </mt:asset></div>
+
+(Grade 1, Stage 0), Needle liver biopsy specimen.
+A 40 year old Italian man underwent a needle liver biopsy to assess the grade of activity and stage of disease of his known chronic hepatitis B infection. There was no known history of intravenous drug use, but sexual acquisition of HBV infection was suspected. His serum liver tests showed mild aminotransferase elevations of AST (aspartate aminotransferase) = 67 U/L (normal < 40) and ALT (alanine aminotransferase) = 79 U/L (normal < 40). All other liver tests were normal.<br clear="all" />
+
+h2. Questions
+
+# In this needle biopsy core, is the architecture PRESERVED--DISTURBED--or DISTORTED (i.e., cirrhotic or with extensive bridging fibrosis)? 
+#  Is there a diagnostic lesion present which indicates that the patient has chronic hepatitis B? 
+#  What possible future sequelae might be seen in other liver biopsies from this patient? 
+#  What is the purpose of obtaining a liver biopsy from this man? 
+-----
+EXTENDED BODY:
+
+-----
+EXCERPT:
+
+-----
+KEYWORDS:
+
+-----
+
+
+--------
+AUTHOR: zarina
+TITLE: Chronic Hepatitis C with Mild Activity and Cirrhosis
+BASENAME: chronic_hepatitis_c
+STATUS: Publish
+ALLOW COMMENTS: 0
+CONVERT BREAKS: textile_2
+ALLOW PINGS: 0
+PRIMARY CATEGORY: 06Liver
+CATEGORY: 06Liver
+DATE: 07/16/2009 04:10:00 AM
+TAGS: modcontent
+-----
+BODY:
+<div class="thumbnail"><mt:asset id="2098"> <a href="http://virtualslides.cumc.columbia.edu/Liver%20Path%2002.svs/view.apml?" target="_blank"><img alt="<mt:AssetLabel encode_html="1">" src="<mt:AssetURL>" width="170" height="143" class="mt-image-left" /></a><br /><a href="http://virtualslides.cumc.columbia.edu/Liver%20Path%2002.svs/view.apml?" target="_blank">Open with WebViewer</a> </mt:asset></div>
+
+(Grade 2, Stage 4), Explant specimen.
+This 61 year old woman had a long history of transfusion-related chronic hepatitis C and went into clinical liver failure approximately 10 months prior to liver transplantation at this medical center. The explant liver appeared grossly cirrhotic and contained two hepatocellular carcinomas (one of which is seen on this slide, along with the cirrhosis).<br clear="all" />
+
+h2. Questions
+
+#  What histologic marker(s) of hepatitis C virus infection is/are present? 
+#  What is the typical form of single-cell death of hepatocytes in chronic hepatitis C? 
+#  Can you locate the HCC in the slide? What features distinguish this carcinoma from the underlying cirrhosis? 
+#  What diagnostic methods would have been used for surveillance for HCC in this patient? 
+-----
+EXTENDED BODY:
+
+-----
+EXCERPT:
+
+-----
+KEYWORDS:
+
+-----
+
+
+--------
+AUTHOR: zarina
+TITLE: Acute Large Bile Duct Obstruction with Acute, Ascending Cholangitis
+BASENAME: large_bile_duct_obstruction
+STATUS: Publish
+ALLOW COMMENTS: 0
+CONVERT BREAKS: textile_2
+ALLOW PINGS: 0
+PRIMARY CATEGORY: 06Liver
+CATEGORY: 06Liver
+DATE: 07/16/2009 04:15:00 AM
+TAGS: modcontent
+-----
+BODY:
+<div class="thumbnail"><mt:asset id="2099"> <a href="http://virtualslides.cumc.columbia.edu/Liver%20Path%2003.svs/view.apml?" target="_blank"><img alt="<mt:AssetLabel encode_html="1">" src="<mt:AssetURL>" width="170" height="143" class="mt-image-left" /></a><br /><a href="http://virtualslides.cumc.columbia.edu/Liver%20Path%2003.svs/view.apml?" target="_blank">Open with WebViewer</a> </mt:asset></div>
+
+Needle biopsy.
+This 23 year old man came in to the clinic with very vague symptoms, no referable history and mild fever. His serum liver tests showed total bilirubin of 6.5 mg/dl (normal < 1.0) and mild elevations of aminotransferases and alkaline phosphatase. Initial ultrasound of the bile ducts, liver and abdomen did not provide a definitive diagnosis, so a liver biopsy was performed to evaluate "FUO--fever of unknown origin").<br clear="all" />
+
+h2. Questions
+
+#  Which lobular regions of the liver are primarily involved in this case? 
+#  Does this localization of the histologic findings help you diagnose the type of liver disease present? 
+#  What has apparently developed superimposed on the underlying liver disease? 
+#  What is the appropriate therapy of this condition? 
+#  What is the most common cause of this type of liver biopsy pathology in the U.S. and Europe? 
+-----
+EXTENDED BODY:
+
+-----
+EXCERPT:
+
+-----
+KEYWORDS:
+
+-----
+
+
+--------
+AUTHOR: zarina
+TITLE: Severe Large Droplet Steatosis, Steatohepatitis and Developing Cirrhosis (H&E)
+BASENAME: cirrhosis_h_e
+STATUS: Publish
+ALLOW COMMENTS: 0
+CONVERT BREAKS: textile_2
+ALLOW PINGS: 0
+PRIMARY CATEGORY: 06Liver
+CATEGORY: 06Liver
+DATE: 07/16/2009 04:20:00 AM
+TAGS: modcontent
+-----
+BODY:
+<div class="thumbnail"><mt:asset id="2101"> <a href="http://virtualslides.cumc.columbia.edu/Liver%20Path%2005.svs/view.apml?" target="_blank"><img alt="<mt:AssetLabel encode_html="1">" src="<mt:AssetURL>" width="170" height="143" class="mt-image-left" /></a><br /><a href="http://virtualslides.cumc.columbia.edu/Liver%20Path%2005.svs/view.apml?" target="_blank">Open with WebViewer</a> </mt:asset></div><div class="thumbnail"><mt:asset id="2100"> <a href="http://virtualslides.cumc.columbia.edu/Liver%20Path%2004.svs/view.apml?" target="_blank"><img alt="<mt:AssetLabel encode_html="1">" src="<mt:AssetURL>" width="170" height="143" class="mt-image-left" /></a><br /><a href="http://virtualslides.cumc.columbia.edu/Liver%20Path%2004.svs/view.apml?" target="_blank">Open with WebViewer</a> </mt:asset></div>
+
+<br clear="all" />
+(1 = hematoxylin and eosin, 2 = trichrome)
+This autopsy microscopic slide comes from the liver of a 56 year old woman with a history of hypertension, hyperlipidemia, hypercholesterolemia and chronic back pain who was admitted with hypotensive shock due to major gastrointestinal bleeding and coagulopathy. She died within 24 hours of her gastrointestinal hemorrhage which was within the small intestine and unrelated to esophageal varices . There was no history of alcohol ingestion. The liver at autopsy was grossly hugely enlarged and pale (3180 g or nearly 3 times the normal weight of &lt; 1500 g.) and showed a micronodular outer capsular appearance. (This slide also shows a section of kidney which is not the subject of this laboratory).
+
+h2. Questions
+
+#  What are the two major pathologic conditions affecting the liver in this case? 
+#  What stage of disease is present in this liver? 
+#  Can similar changes be seen in alcoholics? 
+#  What are some other etiologies of large droplet fatty liver with or without steatohepatitis? 
+#  Can you explain the patient's gastrointestinal hemorrhage in the absence of postmortem demonstration of bleeding esophageal varices? 
+-----
+EXTENDED BODY:
+
+-----
+EXCERPT:
+
+-----
+KEYWORDS:
+
+-----
+
+
+--------
+AUTHOR: zarina
+TITLE: Severe Large Droplet Steatosis, Steatohepatitis and Developing Cirrhosis (Trichrome)
+BASENAME: cirrhosis_trichrome
+STATUS: Publish
+ALLOW COMMENTS: 0
+CONVERT BREAKS: textile_2
+ALLOW PINGS: 0
+PRIMARY CATEGORY: 06Liver
+CATEGORY: 06Liver
+DATE: 07/16/2009 04:25:00 AM
+TAGS: modcontent
+-----
+BODY:
+<div class="thumbnail"><mt:asset id="2101"> <a href="http://virtualslides.cumc.columbia.edu/Liver%20Path%2005.svs/view.apml?" target="_blank"><img alt="<mt:AssetLabel encode_html="1">" src="<mt:AssetURL>" width="170" height="143" class="mt-image-left" /></a><br /><a href="http://virtualslides.cumc.columbia.edu/Liver%20Path%2005.svs/view.apml?" target="_blank">Open with WebViewer</a> </mt:asset></div><div class="thumbnail"><mt:asset id="2100"> <a href="http://virtualslides.cumc.columbia.edu/Liver%20Path%2004.svs/view.apml?" target="_blank"><img alt="<mt:AssetLabel encode_html="1">" src="<mt:AssetURL>" width="170" height="143" class="mt-image-left" /></a><br /><a href="http://virtualslides.cumc.columbia.edu/Liver%20Path%2004.svs/view.apml?" target="_blank">Open with WebViewer</a> </mt:asset></div>
+
+<br clear="all" />
+(1 = hematoxylin and eosin, 2 = trichrome)
+This autopsy microscopic slide comes from the liver of a 56 year old woman with a history of hypertension, hyperlipidemia, hypercholesterolemia and chronic back pain who was admitted with hypotensive shock due to major gastrointestinal bleeding and coagulopathy. She died within 24 hours of her gastrointestinal hemorrhage which was within the small intestine and unrelated to esophageal varices . There was no history of alcohol ingestion. The liver at autopsy was grossly hugely enlarged and pale (3180 g or nearly 3 times the normal weight of &lt; 1500 g.) and showed a micronodular outer capsular appearance. (This slide also shows a section of kidney which is not the subject of this laboratory).
+
+h2. Questions
+
+#  What are the two major pathologic conditions affecting the liver in this case? 
+#  What stage of disease is present in this liver? 
+#  Can similar changes be seen in alcoholics? 
+#  What are some other etiologies of large droplet fatty liver with or without steatohepatitis? 
+#  Can you explain the patient's gastrointestinal hemorrhage in the absence of postmortem demonstration of bleeding esophageal varices? 
+-----
+EXTENDED BODY:
+
+-----
+EXCERPT:
+
+-----
+KEYWORDS:
+
+-----
+
+
+--------
+AUTHOR: zarina
+TITLE: Hepatic Infarcts due to Hepatic Artery Thrombosis (Coagulative Necrosis)
+BASENAME: hepatic_infarcts
+STATUS: Publish
+ALLOW COMMENTS: 0
+CONVERT BREAKS: textile_2
+ALLOW PINGS: 0
+PRIMARY CATEGORY: 06Liver
+CATEGORY: 06Liver
+DATE: 07/16/2009 04:30:00 AM
+TAGS: modcontent
+-----
+BODY:
+<div class="thumbnail"><mt:asset id="2073"> <a href="http://virtualslides.cumc.columbia.edu/3471.svs/view.apml?" target="_blank"><img alt="<mt:AssetLabel encode_html="1">" src="<mt:AssetURL>" width="170" height="142" class="mt-image-left" /></a><br /><a href="http://virtualslides.cumc.columbia.edu/3471.svs/view.apml?" target="_blank">Open with WebViewer</a> </mt:asset></div>
+
+C.C.: Elevated serum liver tests 7 days after liver transplantion.
+H.P.I.: 50-year-old man with a history of chronic hepatitis C underwent a living-related donor liver transplantation.
+On post-op day #4 his LFT's were returning toward normal:
+T. Protein-5.3 (nl=6.7-8.6 g/dl), alb=3.2 (nl=4.1-5.3 g/dl), t.bili=5.4 (nl=0.3-1.30 mg/dl), d. bili=2.3 (nl=0.04-0.38 mg/dl), AST=70 (nl=12-38 U/L), ALT=202 (nl=7-41 U/L), Alk. phos.=55 (nl=33-96 U/L).
+On POD #7 his LFT's were found to be worsening and his immunosuppressants were adjusted in response to acute rejection, diagnosed on liver biopsy.
+On POD #11 his LFT's showed T. Protein=4.2, alb=3.1, t. bili=37.7, d.bili=17.0, AST=572, ALT=1750, alk.phos.=311. Ammonia was 49 (nl=11-35 M/L). Coags remained within normal limits.
+
+Diagnostic USG of the abdomen was performed but could not demonstrate the hepatic artery, despite repeated attempts. Hepatic artery thrombosis with liver infarct was presumed and the patient subsequently underwent a repeat, cadaveric liver transplantation. <br clear="all" />
+
+h2. Questions
+
+# There are striking regional differences in the staining and other changes in this slide of liver. Describe them.
+# In the large area where hepatocytes are no longer visible, what pathologic process has occurred? 
+# In light of the clinical history, particularly the evidence of hepatic artery thrombosis, describe the sequence of events that led to the pathologic changes in the liver: 
+# In the region of preserved liver parenchyma, what pathologic changes have occurred and what region(s) of the liver is (are) involved (i.e., centrilobular, midzonal, periportal)? 
+# This case is an example of?
+-----
+EXTENDED BODY:
+
+-----
+EXCERPT:
+
+-----
+KEYWORDS:
+
+-----
+
+
+--------
+AUTHOR: zarina
+TITLE: Gastrointestinal
+BASENAME: index
+STATUS: Publish
+ALLOW COMMENTS: 0
+CONVERT BREAKS: textile_2
+ALLOW PINGS: 0
+PRIMARY CATEGORY: 07Gastrointestinal
+CATEGORY: 07Gastrointestinal
+DATE: 07/16/2009 05:00:00 AM
+TAGS: indexpage
+-----
+BODY:
+
+-----
+EXTENDED BODY:
+<!-- don't touch this code --><ol>
+<mt:Entries category="07Gastrointestinal" tag="modcontent" sort_order="ascend"><li><a href="<mt:EntryPermalink>"><mt:EntryTitle></a></li></mt:Entries>
+</ol><!-- don't touch this code -->
+-----
+EXCERPT:
+
+-----
+KEYWORDS:
+
+-----
+
+
+--------
+AUTHOR: zarina
+TITLE: Ulcerative Colitis (Colon)
+BASENAME: ulcerative_colitis_colon
+STATUS: Publish
+ALLOW COMMENTS: 0
+CONVERT BREAKS: textile_2
+ALLOW PINGS: 0
+PRIMARY CATEGORY: 07Gastrointestinal
+CATEGORY: 07Gastrointestinal
+DATE: 07/16/2009 05:05:00 AM
+TAGS: modcontent
+-----
+BODY:
+<div class="thumbnail"><mt:asset id="2084"> <a href="http://virtualslides.cumc.columbia.edu/GI%20Path%2001.svs/view.apml?" target="_blank"><img alt="<mt:AssetLabel encode_html="1">" src="<mt:AssetURL>" width="170" height="143" class="mt-image-left" /></a><br /><a href="http://virtualslides.cumc.columbia.edu/GI%20Path%2001.svs/view.apml?" target="_blank">Open with WebViewer</a> </mt:asset></div>
+
+A 67 year old man with a 20 year history of intermittent abdominal pain and loose, bloody stools that has been treated with steroids undergoes colonoscopy. He is found to have colonic polyps, which show dysplasia histologically. The patient subsequently underwent a proctocolectomy.<br clear="all" />
+
+h2. Questions
+
+#  What type of disease process is taking place? 
+#  What layer of the bowel is involved? 
+#  What are the main features of this process? 
+#  What is the diagnosis? What other conditions are in the differential diagnosis, and how do you distinguish them? 
+#  What are the reasons for doing the colectomy? 
+-----
+EXTENDED BODY:
+
+-----
+EXCERPT:
+
+-----
+KEYWORDS:
+
+-----
+
+
+--------
+AUTHOR: zarina
+TITLE: Linitis Plastica (Stomach with Mucicarmine Stain)
+BASENAME: linitis_plastica_stomach_stain
+STATUS: Publish
+ALLOW COMMENTS: 0
+CONVERT BREAKS: textile_2
+ALLOW PINGS: 0
+PRIMARY CATEGORY: 07Gastrointestinal
+CATEGORY: 07Gastrointestinal
+DATE: 07/16/2009 05:15:00 AM
+TAGS: modcontent
+-----
+BODY:
+<div class="thumbnail"><mt:asset id="2085"> <a href="http://virtualslides.cumc.columbia.edu/GI%20Path%2002.svs/view.apml?" target="_blank"><img alt="<mt:AssetLabel encode_html="1">" src="<mt:AssetURL>" width="170" height="143" class="mt-image-left" /></a><br /><a href="http://virtualslides.cumc.columbia.edu/GI%20Path%2002.svs/view.apml?" target="_blank">Open with WebViewer</a> </mt:asset></div> <div class="thumbnail"><mt:asset id="2086"> <a href="Phttp://virtualslides.cumc.columbia.edu/GI%20Path%2003.svs/view.apml?" target="_blank"><img alt="<mt:AssetLabel encode_html="1">" src="<mt:AssetURL>" width="170" height="143" class="mt-image-left" /></a><br /><a href="http://virtualslides.cumc.columbia.edu/GI%20Path%2003.svs/view.apml?" target="_blank">Open with WebViewer</a> </mt:asset></div>
+
+<br clear="all" />
+A 59 year old man presented with post-prandial abdominal pain and bloating, one episode of hematemesis and iron-deficiency anemia. Upper endoscopy was performed and revealed a large, thickened, non-distensible stomach. The patient underwent a partial gastrectomy.
+
+h2. Questions
+
+#  Describe the histological features of this process. 
+#  What is the diagnosis? 
+#  What is the prognosis of this disease? 
+#  The mucicarmine stain is used to stain what cell product? 
+-----
+EXTENDED BODY:
+
+-----
+EXCERPT:
+
+-----
+KEYWORDS:
+
+-----
+
+
+--------
+AUTHOR: zarina
+TITLE: Linitis Plastica (Stomach)
+BASENAME: linitis_plastica_stomach
+STATUS: Publish
+ALLOW COMMENTS: 0
+CONVERT BREAKS: textile_2
+ALLOW PINGS: 0
+PRIMARY CATEGORY: 07Gastrointestinal
+CATEGORY: 07Gastrointestinal
+DATE: 07/16/2009 05:10:00 AM
+TAGS: modcontent
+-----
+BODY:
+<div class="thumbnail"><mt:asset id="2085"> <a href="http://virtualslides.cumc.columbia.edu/GI%20Path%2002.svs/view.apml?" target="_blank"><img alt="<mt:AssetLabel encode_html="1">" src="<mt:AssetURL>" width="170" height="143" class="mt-image-left" /></a><br /><a href="http://virtualslides.cumc.columbia.edu/GI%20Path%2002.svs/view.apml?" target="_blank">Open with WebViewer</a> </mt:asset></div> <div class="thumbnail"><mt:asset id="2086"> <a href="Phttp://virtualslides.cumc.columbia.edu/GI%20Path%2003.svs/view.apml?" target="_blank"><img alt="<mt:AssetLabel encode_html="1">" src="<mt:AssetURL>" width="170" height="143" class="mt-image-left" /></a><br /><a href="http://virtualslides.cumc.columbia.edu/GI%20Path%2003.svs/view.apml?" target="_blank">Open with WebViewer</a> </mt:asset></div>
+
+<br clear="all" />
+A 59 year old man presented with post-prandial abdominal pain and bloating, one episode of hematemesis and iron-deficiency anemia. Upper endoscopy was performed and revealed a large, thickened, non-distensible stomach. The patient underwent a partial gastrectomy.
+
+h2. Questions
+
+#  Describe the histological features of this process. 
+#  What is the diagnosis? 
+#  What is the prognosis of this disease? 
+#  The mucicarmine stain is used to stain what cell product? 
+-----
+EXTENDED BODY:
+
+-----
+EXCERPT:
+
+-----
+KEYWORDS:
+
+-----
+
+
+--------
+AUTHOR: zarina
+TITLE: Adenoma (Colon)
+BASENAME: adenoma_colon
+STATUS: Publish
+ALLOW COMMENTS: 0
+CONVERT BREAKS: textile_2
+ALLOW PINGS: 0
+PRIMARY CATEGORY: 07Gastrointestinal
+CATEGORY: 07Gastrointestinal
+DATE: 07/16/2009 05:20:00 AM
+TAGS: modcontent
+-----
+BODY:
+<div class="thumbnail"><mt:asset id="2087"> <a href="http://virtualslides.cumc.columbia.edu/GI%20Path%2004.svs/view.apml?" target="_blank"><img alt="<mt:AssetLabel encode_html="1">" src="<mt:AssetURL>" width="170" height="143" class="mt-image-left" /></a><br /><a href="http://virtualslides.cumc.columbia.edu/GI%20Path%2004.svs/view.apml?" target="_blank">Open with WebViewer</a> </mt:asset></div>
+
+A 73 year-old woman underwent a screening colonoscopy, which found a polypoid mass in the ascending colon. The mass was resected using a snare around the stalk.<br clear="all" />
+
+h2. Questions
+
+# What type of polyp was resected? 
+#  What are the appropriate gross and microscopic descriptions of the polyp? 
+#  What histologic features distinguish the abnormal areas? 
+#  What is the relationship between this lesion and colon carcinoma? 
+-----
+EXTENDED BODY:
+
+-----
+EXCERPT:
+
+-----
+KEYWORDS:
+
+-----
+
+
+--------
+AUTHOR: zarina
+TITLE: Adenocarcinoma (Colon)
+BASENAME: adenocarcinoma_colon
+STATUS: Publish
+ALLOW COMMENTS: 0
+CONVERT BREAKS: textile_2
+ALLOW PINGS: 0
+PRIMARY CATEGORY: 07Gastrointestinal
+CATEGORY: 07Gastrointestinal
+DATE: 07/16/2009 05:25:00 AM
+TAGS: modcontent
+-----
+BODY:
+<div class="thumbnail"><mt:asset id="2088"> <a href="http://virtualslides.cumc.columbia.edu/GI%20Path%2005.svs/view.apml?" target="_blank"><img alt="<mt:AssetLabel encode_html="1">" src="<mt:AssetURL>" width="170" height="143" class="mt-image-left" /></a><br /><a href="http://virtualslides.cumc.columbia.edu/GI%20Path%2005.svs/view.apml?" target="_blank">Open with WebViewer</a> </mt:asset></div>
+
+A 70 year old man experienced bright red blood per rectum and was found to have iron deficiency anemia. He underwent colonoscopy that revealed a large, fungating, friable mass in the sigmoid colon. The patient underwent a sigmoid colectomy.<br clear="all" />
+
+h2. Questions
+
+#  What are the histological characteristics of this mass? 
+#  What is the diagnosis? 
+#  What is the relationship of this lesion to the one seen in <mt:Entries id="9254"><a href="<mt:EntryPermalink>">slide 4 (Adenoma)</a></mt:Entries>? See description of morphologic and molecular changes. 
+-----
+EXTENDED BODY:
+
+-----
+EXCERPT:
+
+-----
+KEYWORDS:
+
+-----
+
+
+--------
+AUTHOR: zarina
+TITLE: Renal
+BASENAME: index
+STATUS: Publish
+ALLOW COMMENTS: 0
+CONVERT BREAKS: textile_2
+ALLOW PINGS: 0
+PRIMARY CATEGORY: 08Renal
+CATEGORY: 08Renal
+DATE: 07/16/2009 06:00:00 AM
+TAGS: indexpage
+-----
+BODY:
+
+-----
+EXTENDED BODY:
+<!-- don't touch this code --><ol>
+<mt:Entries category="08Renal" tag="modcontent" sort_order="ascend"><li><a href="<mt:EntryPermalink>"><mt:EntryTitle></a></li></mt:Entries>
+</ol><!-- don't touch this code -->
+-----
+EXCERPT:
+
+-----
+KEYWORDS:
+
+-----
+
+
+--------
+AUTHOR: zarina
+TITLE: Case 1
+BASENAME: case_1
+STATUS: Publish
+ALLOW COMMENTS: 0
+CONVERT BREAKS: textile_2
+ALLOW PINGS: 0
+PRIMARY CATEGORY: 08Renal
+CATEGORY: 08Renal
+DATE: 07/16/2009 06:05:00 AM
+TAGS: modcontent
+-----
+BODY:
+<div class="thumbnail"><mt:asset id="2107"> <a href="http://virtualslides.cumc.columbia.edu/Renal%20Path%2001.svs/view.apml?" target="_blank"><img alt="<mt:AssetLabel encode_html="1">" src="<mt:AssetURL>" width="170" height="143" class="mt-image-left" /></a><br /><a href="http://virtualslides.cumc.columbia.edu/Renal%20Path%2001.svs/view.apml?" target="_blank">Open with WebViewer</a> </mt:asset></div>
+
+A 30-year-old African-American male presents with full nephrotic syndrome including a 24-hour urine protein of 8.0 g/day, serum albumin 2.3 g/dL, and peripheral edema.<br clear="all" />
+
+h2. Questions
+
+# What is the cause of this patient's nephrotic syndrome? 
+# What pathologic findings are characteristic of this condition?
+-----
+EXTENDED BODY:
+
+-----
+EXCERPT:
+
+-----
+KEYWORDS:
+
+-----
+
+
+--------
+AUTHOR: zarina
+TITLE: Case 2
+BASENAME: case_2
+STATUS: Publish
+ALLOW COMMENTS: 0
+CONVERT BREAKS: textile_2
+ALLOW PINGS: 0
+PRIMARY CATEGORY: 08Renal
+CATEGORY: 08Renal
+DATE: 07/16/2009 06:10:00 AM
+TAGS: modcontent
+-----
+BODY:
+<div class="thumbnail"><mt:asset id="2108"> <a href="http://virtualslides.cumc.columbia.edu/Renal%20Path%2002.svs/view.apml?" target="_blank"><img alt="<mt:AssetLabel encode_html="1">" src="<mt:AssetURL>" width="170" height="143" class="mt-image-left" /></a><br /><a href="http://virtualslides.cumc.columbia.edu/Renal%20Path%2002.svs/view.apml?" target="_blank">Open with WebViewer</a> </mt:asset></div>
+
+A 66-year-old female is found to have a creatinine of 1.8 mg/dL and a 24 hour urine protein of 7.0 g/day.<br clear="all" />
+
+h2. Questions
+
+# What systemic disease is this patient most likely to have?
+# In patients with this condition, what physical finding most closely correlates with the pathologic features seen on renal biopsy? 
+# What are main pathologic findings seen on renal biopsy in this condition?
+-----
+EXTENDED BODY:
+
+-----
+EXCERPT:
+
+-----
+KEYWORDS:
+
+-----
+
+
+--------
+AUTHOR: zarina
+TITLE: Case 3
+BASENAME: case_3
+STATUS: Publish
+ALLOW COMMENTS: 0
+CONVERT BREAKS: textile_2
+ALLOW PINGS: 0
+PRIMARY CATEGORY: 08Renal
+CATEGORY: 08Renal
+DATE: 07/16/2009 06:15:00 AM
+TAGS: modcontent
+-----
+BODY:
+<div class="thumbnail"><mt:asset id="2109"> <a href="http://virtualslides.cumc.columbia.edu/Renal%20Path%2003.svs/view.apml?" target="_blank"><img alt="<mt:AssetLabel encode_html="1">" src="<mt:AssetURL>" width="170" height="143" class="mt-image-left" /></a><br /><a href="http://virtualslides.cumc.columbia.edu/Renal%20Path%2003.svs/view.apml?" target="_blank">Open with WebViewer</a> </mt:asset></div>
+
+A 32-year-old female presents with acute renal failure, gross hematuria, and hypocomplementemia. Two weeks prior to presentation, the patient had an upper respiratory tract infection. Immunofluorescence reveals global granular glomerular capillary wall staining for IgG and C3.<br clear="all" />
+
+h2. Questions
+
+# What is the best diagnosis? 
+#  Glomerular infiltration by what cell type is most characteristic of this condition? 
+#  What is the characteristic finding seen in this condition by electron microscopy? 
+-----
+EXTENDED BODY:
+
+-----
+EXCERPT:
+
+-----
+KEYWORDS:
+
+-----
+
+
+--------
+AUTHOR: zarina
+TITLE: Case 4
+BASENAME: case_4
+STATUS: Publish
+ALLOW COMMENTS: 0
+CONVERT BREAKS: textile_2
+ALLOW PINGS: 0
+PRIMARY CATEGORY: 08Renal
+CATEGORY: 08Renal
+DATE: 07/16/2009 06:20:00 AM
+TAGS: modcontent
+-----
+BODY:
+<div class="thumbnail"><mt:asset id="2110"> <a href="http://virtualslides.cumc.columbia.edu/Renal%20Path%2004.svs/view.apml?" target="_blank"><img alt="<mt:AssetLabel encode_html="1">" src="<mt:AssetURL>" width="170" height="143" class="mt-image-left" /></a><br /><a href="http://virtualslides.cumc.columbia.edu/Renal%20Path%2004.svs/view.apml?" target="_blank">Open with WebViewer</a> </mt:asset></div>
+
+A 59-year-old female presents with acute renal failure, a creatinine of 10.0 mg/dL, and active urine sediment with many RBC's & RBC casts.<br clear="all" />
+
+h2. Questions
+
+# What are the predominant pathologic findings seen on renal biopsy? 
+# Immunofluorescence is entirely negative. What serologic study would most likely be positive in this patient? 
+-----
+EXTENDED BODY:
+
+-----
+EXCERPT:
+
+-----
+KEYWORDS:
+
+-----
+
+
+--------
+AUTHOR: zarina
+TITLE: Case 5
+BASENAME: case_5
+STATUS: Publish
+ALLOW COMMENTS: 0
+CONVERT BREAKS: textile_2
+ALLOW PINGS: 0
+PRIMARY CATEGORY: 08Renal
+CATEGORY: 08Renal
+DATE: 07/16/2009 06:25:00 AM
+TAGS: modcontent
+-----
+BODY:
+<div class="thumbnail"><mt:asset id="2111"> <a href="http://virtualslides.cumc.columbia.edu/Renal%20Path%2005.svs/view.apml?" target="_blank"><img alt="<mt:AssetLabel encode_html="1">" src="<mt:AssetURL>" width="170" height="143" class="mt-image-left" /></a><br /><a href="http://virtualslides.cumc.columbia.edu/Renal%20Path%2005.svs/view.apml?" target="_blank">Open with WebViewer</a> </mt:asset></div>
+
+A 38-year-old male presents with acute renal failure and a creatinine of 3.0 mg/dL. Urinalysis reveals WBC's, no RBC's, and only 1+ proteinuria. Past medical history includes an upper respiratory tract infection 2 weeks earlier, which was treated with antibiotics.<br clear="all" />
+
+h2. Questions
+
+# What is the best diagnosis? 
+#  What are main pathologic findings seen in this condition? 
+#  What is the most likely etiology of this condition in this patient? 
+-----
+EXTENDED BODY:
+
+-----
+EXCERPT:
+
+-----
+KEYWORDS:
+
+-----
+
+
+--------
+AUTHOR: zarina
+TITLE: Case 6
+BASENAME: case_6
+STATUS: Publish
+ALLOW COMMENTS: 0
+CONVERT BREAKS: textile_2
+ALLOW PINGS: 0
+PRIMARY CATEGORY: 08Renal
+CATEGORY: 08Renal
+DATE: 07/16/2009 06:30:00 AM
+TAGS: modcontent
+-----
+BODY:
+<div class="thumbnail"><mt:asset id="2112"> <a href="http://virtualslides.cumc.columbia.edu/Renal%20Path%2006.svs/view.apml?" target="_blank"><img alt="<mt:AssetLabel encode_html="1">" src="<mt:AssetURL>" width="170" height="143" class="mt-image-left" /></a><br /><a href="http://virtualslides.cumc.columbia.edu/Renal%20Path%2006.svs/view.apml?" target="_blank">Open with WebViewer</a> </mt:asset></div>
+
+An 80-year-old male presents with anemia, back pain, and acute renal failure. A renal biopsy is performed. Immunofluorescence reveals tubular casts that stain strongly for kappa light chain, with negative staining for lambda light chain.<br clear="all" />
+
+h2. Questions
+
+# What is the best diagnosis? 
+# What are the characteristic features of this condition? 
+-----
+EXTENDED BODY:
+
+-----
+EXCERPT:
+
+-----
+KEYWORDS:
+
+-----
+
+
+--------
+AUTHOR: zarina
+TITLE: Case 7
+BASENAME: case_7
+STATUS: Publish
+ALLOW COMMENTS: 0
+CONVERT BREAKS: textile_2
+ALLOW PINGS: 0
+PRIMARY CATEGORY: 08Renal
+CATEGORY: 08Renal
+DATE: 07/16/2009 06:35:00 AM
+TAGS: modcontent
+-----
+BODY:
+<div class="thumbnail"><mt:asset id="2113"> <a href="http://virtualslides.cumc.columbia.edu/Renal_Path_07.svs/view.apml?" target="_blank"><img alt="<mt:AssetLabel encode_html="1">" src="<mt:AssetURL>" width="170" height="143" class="mt-image-left" /></a><br /><a href="http://virtualslides.cumc.columbia.edu/Renal_Path_07.svs/view.apml?" target="_blank">Open with WebViewer</a> </mt:asset></div>
+
+A 71-year-old male with history of longstanding hypertension presents with acute renal failure and a creatinine of 2.9 mg/dL occurring 3 weeks following coronary angiography and coronary stent placement.<br clear="all" />
+
+h2. Questions
+
+# What is the diagnosis? 
+# What are characteristic findings in this condition? 
+-----
+EXTENDED BODY:
+
+-----
+EXCERPT:
+
+-----
+KEYWORDS:
+
+-----
+
+
+--------
+AUTHOR: zarina
+TITLE: Hematopoietic Neoplasms Slides for Review
+BASENAME: index
+STATUS: Publish
+ALLOW COMMENTS: 0
+CONVERT BREAKS: textile_2
+ALLOW PINGS: 0
+PRIMARY CATEGORY: 09Hematopoietic Neoplasms
+CATEGORY: 09Hematopoietic Neoplasms
+DATE: 07/20/2009 07:00:00 AM
+TAGS: indexpage
+-----
+BODY:
+
+-----
+EXTENDED BODY:
+<!-- don't touch this code --><ol>
+<mt:Entries category="09Hematopoietic Neoplasms" tag="modcontent" sort_order="ascend"><li><a href="<mt:EntryPermalink>"><mt:EntryTitle></a></li></mt:Entries>
+</ol><!-- don't touch this code -->
+-----
+EXCERPT:
+
+-----
+KEYWORDS:
+
+-----
+
+
+--------
+AUTHOR: zarina
+TITLE: Reactive Lymph Node
+BASENAME: reactive_lymph_node
+STATUS: Publish
+ALLOW COMMENTS: 0
+CONVERT BREAKS: textile_2
+ALLOW PINGS: 0
+PRIMARY CATEGORY: 09Hematopoietic Neoplasms
+CATEGORY: 09Hematopoietic Neoplasms
+DATE: 07/20/2009 07:05:00 AM
+TAGS: modcontent
+-----
+BODY:
+<div class="thumbnail"><mt:asset id="2090"> <a href="http://virtualslides.cumc.columbia.edu/Heme%20Path%2001.svs/view.apml?" target="_blank"><img alt="<mt:AssetLabel encode_html="1">" src="<mt:AssetURL>" width="170" height="142" class="mt-image-left" /></a><br /><a href="http://virtualslides.cumc.columbia.edu/Heme%20Path%2001.svs/view.apml?" target="_blank">Open with WebViewer</a> </mt:asset></div>
+
+14-year-old male with recent history of pharyngitis presents with bilateral cervical lymphadenopathy. <br clear="all" />
+
+h2. Questions
+
+# Describe the architecture of a benign reactive lymph node. 
+# List the major cell types within the following compartments: 
+** Follicles
+** Interfollicular regions
+** Sinusoids
+-----
+EXTENDED BODY:
+
+-----
+EXCERPT:
+
+-----
+KEYWORDS:
+
+-----
+
+
+--------
+AUTHOR: zarina
+TITLE: Follicular Lymphoma
+BASENAME: follicular_lymphoma
+STATUS: Publish
+ALLOW COMMENTS: 0
+CONVERT BREAKS: textile_2
+ALLOW PINGS: 0
+PRIMARY CATEGORY: 09Hematopoietic Neoplasms
+CATEGORY: 09Hematopoietic Neoplasms
+DATE: 07/20/2009 07:10:00 AM
+TAGS: modcontent
+-----
+BODY:
+<div class="thumbnail"><mt:asset id="2091"> <a href="http://virtualslides.cumc.columbia.edu/Heme%20Path%2002.svs/view.apml?" target="_blank"><img alt="<mt:AssetLabel encode_html="1">" src="<mt:AssetURL>" width="170" height="142" class="mt-image-left" /></a><br /><a href="http://virtualslides.cumc.columbia.edu/Heme%20Path%2002.svs/view.apml?" target="_blank">Open with WebViewer</a> </mt:asset></div>
+
+56-year-old male with diffuse lymphadenopathy. <br clear="all" />
+
+h2. Questions
+
+# Describe the differences between the morphology of the follicles of the previous case with this case.
+#  Diagnosis? 
+#  Associated translocation?
+-----
+EXTENDED BODY:
+
+-----
+EXCERPT:
+
+-----
+KEYWORDS:
+
+-----
+
+
+--------
+AUTHOR: zarina
+TITLE: Hodgkin Lymphoma
+BASENAME: hodgkin_lymphoma
+STATUS: Publish
+ALLOW COMMENTS: 0
+CONVERT BREAKS: textile_2
+ALLOW PINGS: 0
+PRIMARY CATEGORY: 09Hematopoietic Neoplasms
+CATEGORY: 09Hematopoietic Neoplasms
+DATE: 07/20/2009 07:15:00 AM
+TAGS: modcontent
+-----
+BODY:
+<div class="thumbnail"><mt:asset id="2092"> <a href="http://virtualslides.cumc.columbia.edu/Heme%20Path%2003.svs/view.apml?" target="_blank"><img alt="<mt:AssetLabel encode_html="1">" src="<mt:AssetURL>" width="170" height="142" class="mt-image-left" /></a><br /><a href="http://virtualslides.cumc.columbia.edu/Heme%20Path%2003.svs/view.apml?" target="_blank">Open with WebViewer</a> </mt:asset></div>
+
+24-year-old female with a large mediastinal mass, cervical lymphadenopathy, and "B" symptoms (fever, fatigue, weight loss).<br clear="all" />
+
+h2. Questions
+
+# How does the low power appearance of this neoplastic infiltrate differ from the previous cases? 
+#  Is the neoplastic cell the predominant cell type? Describe the neoplastic cells. 
+#  Diagnosis? 
+-----
+EXTENDED BODY:
+
+-----
+EXCERPT:
+
+-----
+KEYWORDS:
+
+-----
+
+
+--------
+AUTHOR: zarina
+TITLE: ALL
+BASENAME: all
+STATUS: Publish
+ALLOW COMMENTS: 0
+CONVERT BREAKS: textile_2
+ALLOW PINGS: 0
+PRIMARY CATEGORY: 09Hematopoietic Neoplasms
+CATEGORY: 09Hematopoietic Neoplasms
+DATE: 07/20/2009 07:20:00 AM
+TAGS: modcontent
+-----
+BODY:
+<div class="thumbnail"><mt:asset id="2093"> <a href="http://virtualslides.cumc.columbia.edu/Heme%20Path%2004.svs/view.apml?" target="_blank"><img alt="<mt:AssetLabel encode_html="1">" src="<mt:AssetURL>" width="170" height="142" class="mt-image-left" /></a><br /><a href="http://virtualslides.cumc.columbia.edu/Heme%20Path%2004.svs/view.apml?" target="_blank">Open with WebViewer</a> </mt:asset></div>
+
+9-year-old male whose mother notices recent easy bruising and that his gums bleed when he brushes his teeth. The white blood cell count in the peripheral blood is 110K.<br clear="all" />
+
+h2. Questions
+
+# Describe the neoplastic cells. 
+#  Diagnosis? 
+# True or False. This disease is almost always fatal. 
+-----
+EXTENDED BODY:
+
+-----
+EXCERPT:
+
+-----
+KEYWORDS:
+
+-----
+
+
+--------
+AUTHOR: zarina
+TITLE: CML
+BASENAME: cml
+STATUS: Publish
+ALLOW COMMENTS: 0
+CONVERT BREAKS: textile_2
+ALLOW PINGS: 0
+PRIMARY CATEGORY: 09Hematopoietic Neoplasms
+CATEGORY: 09Hematopoietic Neoplasms
+DATE: 07/20/2009 07:25:00 AM
+TAGS: modcontent
+-----
+BODY:
+<div class="thumbnail"><mt:asset id="2094"> <a href="http://virtualslides.cumc.columbia.edu/Heme%20Path%2005.svs/view.apml?" target="_blank"><img alt="<mt:AssetLabel encode_html="1">" src="<mt:AssetURL>" width="170" height="142" class="mt-image-left" /></a><br /><a href="http://virtualslides.cumc.columbia.edu/Heme%20Path%2005.svs/view.apml?" target="_blank">Open with WebViewer</a> </mt:asset></div>
+
+60-year-old female with a peripheral blood white cell count of 150K. <br clear="all" />
+
+h2. Questions
+
+#  Describe the bone marrow aspirate.
+#  Diagnosis? 
+#  Defining translocation?
+-----
+EXTENDED BODY:
+
+-----
+EXCERPT:
+
+-----
+KEYWORDS:
+
+-----
+
+
+--------
+AUTHOR: zarina
+TITLE: Multiple Myeloma
+BASENAME: multiple_myeloma
+STATUS: Publish
+ALLOW COMMENTS: 0
+CONVERT BREAKS: textile_2
+ALLOW PINGS: 0
+PRIMARY CATEGORY: 09Hematopoietic Neoplasms
+CATEGORY: 09Hematopoietic Neoplasms
+DATE: 07/20/2009 07:30:00 AM
+TAGS: modcontent
+-----
+BODY:
+<div class="thumbnail"><mt:asset id="2095"> <a href="http://virtualslides.cumc.columbia.edu/Heme%20Path%2006.svs/view.apml?" target="_blank"><img alt="<mt:AssetLabel encode_html="1">" src="<mt:AssetURL>" width="170" height="142" class="mt-image-left" /></a><br /><a href="http://virtualslides.cumc.columbia.edu/Heme%20Path%2006.svs/view.apml?" target="_blank">Open with WebViewer</a> </mt:asset></div>
+
+This patient was a 51 year old woman with a known history of multiple myeloma, first diagnosed one year ago at an outside hospital. She had received several chemotherapy regimens but had residual multifocal vertebral compression fractures and lytic lesions. She was admitted to the emergency room of CUMC 2 days before death with weakness, worsening fatigue and non-productive course. During her hospital stay she had evidence of biventricular failure, a small pericardial effusion and required maximum pressors for hypotension. She developed a cardiopulmonary arrest on the second hospital day and could not be resuscitated.<br clear="all" />
+
+h2. Questions
+
+# For a woman aged 51, what are the appropriate proportions of fat and hematopoietic elements? 
+#  What neoplasm is present in this section, and how do you recognize it? 
+#  Is there any residual non-neoplastic bone marrow? 
+#  What changes have developed in the vertebral bone itself? 
+#  Since the patient's terminal admission was very heart-focussed, what disorder might you surmise is present, in light of the background history? 
+-----
+EXTENDED BODY:
+
+-----
+EXCERPT:
+
+-----
+KEYWORDS:
+
+-----
+
+
+--------
+AUTHOR: zarina
+TITLE: Normal Blood Smear for Comparison
+BASENAME: normal_blood_smear
+STATUS: Publish
+ALLOW COMMENTS: 0
+CONVERT BREAKS: textile_2
+ALLOW PINGS: 0
+PRIMARY CATEGORY: 09Hematopoietic Neoplasms
+CATEGORY: 09Hematopoietic Neoplasms
+DATE: 07/20/2009 07:35:00 AM
+TAGS: modcontent
+-----
+BODY:
+<div class="thumbnail"><mt:asset id="2096"> <a href="http://virtualslides.cumc.columbia.edu/Heme%20Path%2007.svs/view.apml?" target="_blank"><img alt="<mt:AssetLabel encode_html="1">" src="<mt:AssetURL>" width="170" height="142" class="mt-image-left" /></a><br /><a href="http://virtualslides.cumc.columbia.edu/Heme%20Path%2007.svs/view.apml?" target="_blank">Open with WebViewer</a> </mt:asset></div>
+
+<br clear="all" />
+-----
+EXTENDED BODY:
+
+-----
+EXCERPT:
+
+-----
+KEYWORDS:
+
+-----
+
+
+--------
+AUTHOR: michelle
+TITLE: Normal Slides Renal Core Biposies
+BASENAME: normal_slides_renal_core_biposies
+STATUS: Publish
+ALLOW COMMENTS: 0
+CONVERT BREAKS: textile_2
+ALLOW PINGS: 0
+PRIMARY CATEGORY: 08Renal
+CATEGORY: 08Renal
+DATE: 12/14/2009 11:29:42 AM
+TAGS: modcontent
+-----
+BODY:
+<div class="thumbnail"><mt:asset id="2180"> <a href="http://virtualslides.cumc.columbia.edu/11435.svs/view.apml?" target="_blank"><img alt="<mt:AssetLabel encode_html="1">" src="<mt:AssetURL>" width="170" height="238" class="mt-image-left" /></a><br /><a href=http://virtualslides.cumc.columbia.edu/11435.svs/view.apml?" target="_blank">Open with WebViewer</a> </mt:asset></div>
+
+H&E Stain<br clear="all" />
+
+<div class="thumbnail"><mt:asset id="2177"> <a href="http://virtualslides.cumc.columbia.edu/11433.svs/view.apml?" target="_blank"><img alt="<mt:AssetLabel encode_html="1">" src="<mt:AssetURL>" width="170" height="211" class="mt-image-left" /></a><br /><a href="http://virtualslides.cumc.columbia.edu/11433.svs/view.apml?" target="_blank">Open with WebViewer</a> </mt:asset></div>
+
+Silver Stain<br clear="all" />
+
+<div class="thumbnail"><mt:asset id="2174"> <a href="http://virtualslides.cumc.columbia.edu/11424.svs/view.apml?" target="_blank"><img alt="<mt:AssetLabel encode_html="1">" src="<mt:AssetURL>" width="170" height="237" class="mt-image-left" /></a><br /><a href="http://virtualslides.cumc.columbia.edu/11424.svs/view.apml?" target="_blank">Open with WebViewer</a> </mt:asset></div>
+
+PAS Stain<br clear="all" />
+
+<div class="thumbnail"><mt:asset id="2171"> <a href="http://virtualslides.cumc.columbia.edu/11420.svs/view.apml?" target="_blank"><img alt="<mt:AssetLabel encode_html="1">" src="<mt:AssetURL>" width="170" height="240" class="mt-image-left" /></a><br /><a href="http://virtualslides.cumc.columbia.edu/11420.svs/view.apml?" target="_blank">Open with WebViewer</a> </mt:asset></div>
+
+Trichrome Stain<br clear="all" />
+
+<div class="thumbnail"><mt:asset id="2186"> <a href="http://virtualslides.cumc.columbia.edu/11440.svs/view.apml?" target="_blank"><img alt="<mt:AssetLabel encode_html="1">" src="<mt:AssetURL>" width="170" height="120" class="mt-image-left" /></a><br /><a href="http://virtualslides.cumc.columbia.edu/11440.svs/view.apml?" target="_blank">Open with WebViewer</a> </mt:asset></div>
+
+PAS of a Kidney Wedge<br clear="all" />
+
+<div class="thumbnail"><mt:asset id="2183"> <a href="http://virtualslides.cumc.columbia.edu/11444.svs/view.apml?" target="_blank"><img alt="<mt:AssetLabel encode_html="1">" src="<mt:AssetURL>" width="170" height="115" class="mt-image-left" /></a><br /><a href="http://virtualslides.cumc.columbia.edu/11444.svs/view.apml?" target="_blank">Open with WebViewer</a> </mt:asset></div>
+
+H&E of a Kidney Wedge<br clear="all" />
+-----
+EXTENDED BODY:
+
+-----
+EXCERPT:
+
+-----
+KEYWORDS:
+
+-----
+
+
+--------
+AUTHOR: zarina
+TITLE: Acute Inflammation
+BASENAME: index
+STATUS: Publish
+ALLOW COMMENTS: 0
+CONVERT BREAKS: textile_2
+ALLOW PINGS: 0
+PRIMARY CATEGORY: 01Acute Inflammation
+CATEGORY: 01Acute Inflammation
+DATE: 09/27/2010 10:40:26 AM
+TAGS: indexpage
+-----
+BODY:
+
+-----
+EXTENDED BODY:
+<!-- don't touch this code --><ol>
+<mt:Entries category="01Acute Inflammation" tag="modcontent" sort_order="ascend"><li><a href="<mt:EntryPermalink>"><mt:EntryTitle></a></li></mt:Entries>
+</ol><!-- don't touch this code -->
+-----
+EXCERPT:
+
+-----
+KEYWORDS:
+
+-----
+
+
+--------
+AUTHOR: zarina
+TITLE: Chronic Inflammation
+BASENAME: index
+STATUS: Publish
+ALLOW COMMENTS: 0
+CONVERT BREAKS: textile_2
+ALLOW PINGS: 0
+PRIMARY CATEGORY: 02Chronic Inflammation
+CATEGORY: 02Chronic Inflammation
+DATE: 09/27/2010 11:01:05 AM
+TAGS: indexpage
+-----
+BODY:
+
+-----
+EXTENDED BODY:
+<!-- don't touch this code --><ol>
+<mt:Entries category="02Chronic Inflammation" tag="modcontent" sort_order="ascend"><li><a href="<mt:EntryPermalink>"><mt:EntryTitle></a></li></mt:Entries>
+</ol><!-- don't touch this code -->
+-----
+EXCERPT:
+
+-----
+KEYWORDS:
+
+-----
+
+
+--------
+AUTHOR: zarina
+TITLE: Neoplasia
+BASENAME: index
+STATUS: Publish
+ALLOW COMMENTS: 0
+CONVERT BREAKS: textile_2
+ALLOW PINGS: 0
+PRIMARY CATEGORY: 03Neoplasia
+CATEGORY: 03Neoplasia
+DATE: 09/27/2010 11:01:19 AM
+TAGS: indexpage
+-----
+BODY:
+
+-----
+EXTENDED BODY:
+<!-- don't touch this code --><ol>
+<mt:Entries category="03Neoplasia" tag="modcontent" sort_order="ascend"><li><a href="<mt:EntryPermalink>"><mt:EntryTitle></a></li></mt:Entries>
+</ol><!-- don't touch this code -->
+-----
+EXCERPT:
+
+-----
+KEYWORDS:
+
+-----
+
+
+--------
+AUTHOR: zarina
+TITLE: Acute Appendicitis
+BASENAME: acute_appendicitis
+STATUS: Publish
+ALLOW COMMENTS: 0
+CONVERT BREAKS: textile_2
+ALLOW PINGS: 0
+PRIMARY CATEGORY: 01Acute Inflammation
+CATEGORY: 01Acute Inflammation
+DATE: 09/27/2010 11:37:25 AM
+TAGS: modcontent
+-----
+BODY:
+h3. Slide #3470
+
+<div class="thumbnail"><mt:asset id="2072"> <a href="http://virtualslides.cumc.columbia.edu/3470.svs/view.apml?" target="_blank"><img alt="<mt:AssetLabel encode_html="1">" src="<mt:AssetURL>" width="170" height="126" class="mt-image-left" /></a><br /><a href="http://virtualslides.cumc.columbia.edu/3470.svs/view.apml?" target="_blank">Open with WebViewer</a> </mt:asset></div>
+
+C.C.: RLQ pain.
+H.P.I.: A 68-year-old man with a history of HTN, NIDDM presented with RLQ pain x 5 hours, increasing in severity, with fevers to 102 F. He reported one episode of non-bilious, non-bloody vomiting on the morning of admission, with continued nausea. He reported having a normal BM on the same morning, and denied a history of diarrhea, hematochezia or melena. His physical exam was notable for T 101.5, P 95, BP 140/85, R 14, a non-distended abdomen with guarding and rebound in the RLQ. Labs demonstrated an elevated WBC at 17 (nl=3.5-9.0 x 109) with a left shift, PMNs=86%, lymphs=9% (nl: PMN 40-70%, lymphs 20-50). All other lab work was within normal limits. He was taken to the OR, where an appendectomy was performed. He had a satisfactory post-operative course and was discharged home 4 days later. 
+
+h2. Questions
+
+# The changes in the appendix involve which portion or portions of the wall?
+# Examine the serosa. Describe the major pathologic findings:
+# What is the predominant inflammatory cell in the appendix in this case?
+# What is the pathogenesis of this appendiceal condition?
+# This condition is an example of which of the following: inflammation, repair or neoplasia?
+# Should this process be considered acute or chronic, and why?
+-----
+EXTENDED BODY:
+
+-----
+EXCERPT:
+
+-----
+KEYWORDS:
+
+-----
+
+
+--------
+AUTHOR: zarina
+TITLE: Liver I Hepatic Infarct
+BASENAME: liver_i_hepatic_infarct
+STATUS: Publish
+ALLOW COMMENTS: 0
+CONVERT BREAKS: textile_2
+ALLOW PINGS: 0
+PRIMARY CATEGORY: 01Acute Inflammation
+CATEGORY: 01Acute Inflammation
+DATE: 09/27/2010 11:38:54 AM
+TAGS: modcontent
+-----
+BODY:
+h3. Slide #3471
+
+<div class="thumbnail"><mt:asset id="2073"> <a href="http://virtualslides.cumc.columbia.edu/3471.svs/view.apml?" target="_blank"><img alt="<mt:AssetLabel encode_html="1">" src="<mt:AssetURL>" width="170" height="142" class="mt-image-left" /></a><br /><a href="http://virtualslides.cumc.columbia.edu/3471.svs/view.apml?" target="_blank">Open with WebViewer</a> </mt:asset></div>
+
+C.C.: Elevated serum liver tests 7 days after liver transplantion.
+H.P.I.: 50-year-old man with a history of chronic hepatitis C underwent a living-related donor liver transplantation. On post-op day #4 his LFT's were returning toward normal: T. Protein-5.3 (nl=6.7-8.6 g/dl), alb=3.2 (nl=4.1-5.3 g/dl), t.bili=5.4 (nl=0.3-1.30 mg/dl), d. bili=2.3 (nl=0.04-0.38 mg/dl), AST=70 (nl=12-38 U/L), ALT=202 (nl=7-41 U/L), Alk. phos.=55 (nl=33-96 U/L).
+On POD #7 his LFT's were found to be worsening and his immunosuppressants were adjusted in response to acute rejection, diagnosed on liver biopsy.
+On POD #11 his LFT's showed T. Protein=4.2, alb=3.1, t. bili=37.7, d.bili=17.0, AST=572, ALT=1750, alk.phos.=311. Ammonia was 49 (nl=11-35 µM/L). Coags remained within normal limits. Diagnostic USG of the abdomen was performed but could not demonstrate the hepatic artery, despite repeated attempts. Hepatic artery thrombosis with liver infarct was presumed and the patient subsequently underwent a repeat, cadaveric liver transplantation.
+
+h2. Questions
+
+# There are striking regional differences in the staining and other changes in this slide of liver. Describe them.
+# In the large area where hepatocytes are no longer visible, what pathologic process has occurred?
+# In light of the clinical history, particularly the evidence of hepatic artery thrombosis, describe the sequence of events that led to the pathologic changes in the liver
+# In the region of preserved liver parenchyma, what pathologic changes have occurred and what region(s) of the liver is (are) involved (i.e., centrilobular, midzonal, periportal)?
+# Which basic type of cell injury is demonstrated in this case?
+-----
+EXTENDED BODY:
+
+-----
+EXCERPT:
+
+-----
+KEYWORDS:
+
+-----
+
+
+--------
+AUTHOR: zarina
+TITLE: Pneumonia
+BASENAME: pneumonia
+STATUS: Publish
+ALLOW COMMENTS: 0
+CONVERT BREAKS: textile_2
+ALLOW PINGS: 0
+PRIMARY CATEGORY: 01Acute Inflammation
+CATEGORY: 01Acute Inflammation
+DATE: 09/27/2010 11:39:21 AM
+TAGS: modcontent
+-----
+BODY:
+h3. Slide #12
+
+<div class="thumbnail"><mt:asset id="2106"> <a href="http://virtualslides.cumc.columbia.edu/Lung%20Path%2005.svs/view.apml?" target="_blank"><img alt="<mt:AssetLabel encode_html="1">" src="<mt:AssetURL>" width="170" height="127" class="mt-image-left" /></a><br /><a href="http://virtualslides.cumc.columbia.edu/Lung%20Path%2005.svs/view.apml?" target="_blank">Open with WebViewer</a> </mt:asset></div>
+
+This section of lung was obtained at the autopsy of a 62-year-old man who had been admitted with an acute myocardial infarction. During a two week hospitalisation he had developed several cardiac arrhythmias, left ventricular failure and chest X-ray evidence of pulmonary infiltrates. He became progressively hypoxic and suffered a cardiopulmonary arrest on the 12 th hospital day.<br clear="all" />
+
+h2. Questions
+
+# What are the two most striking changes in this lung tissue on low power? 
+# What is the predominant inflammatory cell in this section? 
+# What is the pathogenesis of this patient's pneumonia? 
+-----
+EXTENDED BODY:
+
+-----
+EXCERPT:
+
+-----
+KEYWORDS:
+
+-----
+
+
+--------
+AUTHOR: zarina
+TITLE: Acute Myocardial Infarction
+BASENAME: acute_myocardial_infarction_1
+STATUS: Publish
+ALLOW COMMENTS: 0
+CONVERT BREAKS: textile_2
+ALLOW PINGS: 0
+PRIMARY CATEGORY: 01Acute Inflammation
+CATEGORY: 01Acute Inflammation
+DATE: 09/27/2010 11:39:38 AM
+TAGS: modcontent
+-----
+BODY:
+h3. Slide #7a
+
+<div class="thumbnail"><mt:asset id="2080"> <a href="http://virtualslides.cumc.columbia.edu/3480.svs/view.apml?" target="_blank"><img alt="<mt:AssetLabel encode_html="1">" src="<mt:AssetURL>" width="170" height="146" class="mt-image-left" /></a><br /><a href="http://virtualslides.cumc.columbia.edu/3480.svs/view.apml?" target="_blank">Open with WebViewer</a> </mt:asset></div>
+
+This 62-year-old man underwent heart transplantation for endstage ischemic heart disease. The explant heart grossly showed severe multi-vessel coronary artery disease with grey white patches of scar tissue throughout the ventricular septum and anterior and lateral walls of the left ventricle. Multiple foci of pale myocardium were noted in the anterior wall, which were sampled for microscopy.
+
+This section shows myocardium with broad areas of fibrosis (due to prior ischemia and infarction). The acutely infracted tissue is recognised on low power by several features, which are each related to the age of the infarct: hypereosinophilic myocytes, myocytes without nuclei and/or without cross-striations, myocytes with contraction bands (due to reperfusion injury) and early neutrophil infiltrates near myocytes with the preceding changes.<br clear="all" />
+
+h2. Checklist: Have you identified
+
+(checklist)* Necrotic myocytes
+* Neutrophils
+* Contraction bands
+* Fibrous scars
+
+h2. Questions
+
+Outline the time course and histologic changes in myocardial infarction from the first hours to 6 weeks later.
+-----
+EXTENDED BODY:
+
+-----
+EXCERPT:
+
+-----
+KEYWORDS:
+
+-----
+
+
+--------
+AUTHOR: zarina
+TITLE: Myocarditis
+BASENAME: myocarditis_1
+STATUS: Publish
+ALLOW COMMENTS: 0
+CONVERT BREAKS: textile_2
+ALLOW PINGS: 0
+PRIMARY CATEGORY: 01Acute Inflammation
+CATEGORY: 01Acute Inflammation
+DATE: 09/27/2010 11:39:54 AM
+TAGS: modcontent
+-----
+BODY:
+h3. Slide #9
+
+<div class="thumbnail"><mt:asset id="2076"> <a href="http://virtualslides.cumc.columbia.edu/3475.svs/view.apml?" target="_blank"><img alt="<mt:AssetLabel encode_html="1">" src="<mt:AssetURL>" width="170" height="159" class="mt-image-left" /></a><br /><a href="http://virtualslides.cumc.columbia.edu/3475.svs/view.apml?" target="_blank">Open with WebViewer</a> </mt:asset></div>
+
+This 54-year-old man had a 5 year history of amyotrophic lateral sclerosis (ALS). He had been in relatively good condition until the past year, during which he had developed multiple episodes of pneumonia and required nursing home care. He was receiving an experimental protocol agent for ALS at the time of his death. The heart grossly showed no abnormalities.
+
+There is widespread microscopic infiltration of the myocardium by inflammatory cells, an intermixture of neutrophils and lymphocytes. The inflammation is seen within the interstitial connective tissue and also surrounding myocytes, which are undergoing degeneration (appearing fragmented and partly eroded). Note, that in distinction to acute myocardial infarction, the nuclei of myocytes are intact and coagulative necrosis has not occurred.<br clear="all" />
+
+h2. Checklist: Have you identified
+
+(checklist)* myocyte breakdown
+* inflammation in the interstitium
+* neutrophils and lymphocytes specifically
+* inflammation around degenerating myocytes
+
+h2. Questions
+
+# What are the major causes of myocarditis?
+# How can the various causes be histologically differentiated?
+-----
+EXTENDED BODY:
+
+-----
+EXCERPT:
+
+-----
+KEYWORDS:
+
+-----
+
+
+--------
+AUTHOR: zarina
+TITLE: Liver II Cirrhosis
+BASENAME: liver_ii_cirrhosis
+STATUS: Publish
+ALLOW COMMENTS: 0
+CONVERT BREAKS: textile_2
+ALLOW PINGS: 0
+PRIMARY CATEGORY: 02Chronic Inflammation
+CATEGORY: 02Chronic Inflammation
+DATE: 09/27/2010 11:46:55 AM
+TAGS: modcontent
+-----
+BODY:
+h3. Slide #3472
+
+<div class="thumbnail"><mt:asset id="2074"> <a href="http://virtualslides.cumc.columbia.edu/3472.svs/view.apml?" target="_blank"><img alt="<mt:AssetLabel encode_html="1">" src="<mt:AssetURL>" width="170" height="126" class="mt-image-left" /></a><br /><a href="http://virtualslides.cumc.columbia.edu/3472.svs/view.apml?" target="_blank">Open with WebViewer</a> </mt:asset></div>
+
+This 54 year old woman underwent an orthotopic liver transplant for autoimmune chronic hepatitis with cirrhosis. Her liver disease dated back three years when she presented with fatigue and abnormal bleeding. At that time her blood tests showed elevated serum aminotransferases AST (aspartate aminotransferase) and ALT (alanine aminotransferase) of 234 U/L and 303 U/L (both normal levels are <40). Her total serum bilirubin was 5.6 mg/dl (normal <1.0) and her albumin was low at 3.0 g/dl (normal >3.5). Her serum alkaline phosphatase was normal at 36 U/L (normal <110). After a comprehensive workup including serologic exclusion of chronic hepatitis B and C, as well as any history of possible chronic medication-related liver injury, a panel of autoantibodies was obtained and a striking elevation of serum anti-nuclear antibody of 1:1280 was found. A liver biopsy showed chronic hepatitis with moderate activity and developing cirrhosis.
+
+h2. Questions
+
+# Examine the architecture of this section of the explanted liver. How does it compare to normal liver, and what diagnosis would you render?
+# What are the predominant inflammatory cells present, and where are they located?
+# If this is "autoimmune" chronic hepatitis and cirrhosis, describe the etiopathogenesis of this process.
+# What other conditions may show general pathologic similarities to that seen in this case?
+# What basic pathologic process does this case demonstrate?
+-----
+EXTENDED BODY:
+
+-----
+EXCERPT:
+
+-----
+KEYWORDS:
+
+-----
+
+
+--------
+AUTHOR: zarina
+TITLE: Healed MI (myocyte hyper)
+BASENAME: healed_mi
+STATUS: Publish
+ALLOW COMMENTS: 0
+CONVERT BREAKS: textile_2
+ALLOW PINGS: 0
+PRIMARY CATEGORY: 02Chronic Inflammation
+CATEGORY: 02Chronic Inflammation
+DATE: 09/27/2010 11:47:23 AM
+TAGS: modcontent
+-----
+BODY:
+h3. Slide #8
+
+<div class="thumbnail"><mt:asset id="2079"> <a href="http://virtualslides.cumc.columbia.edu/3479.svs/view.apml?" target="_blank"><img alt="<mt:AssetLabel encode_html="1">" src="<mt:AssetURL>" width="170" height="164" class="mt-image-left" /></a><br /><a href="http://virtualslides.cumc.columbia.edu/3479.svs/view.apml?" target="_blank">Open with WebViewer</a> </mt:asset></div>
+
+This slide comes from the post-mortem of the 56-year-old man described in slide #2. He had had multiple previous myocardial infarctions and was known to have multi-vessel coronary atherosclerosis, S/P bypass. At autopsy, there were multiple pale white-grey regions consistent with scars.
+
+Broad, perivascular regions of fibrosis have replaced myocardium. The longitudinally-cut residual, viable myocytes show hypertrophy, characterised by fiber thickening and change of the nuclei from spindle - or cigar shaped - to "box car" like (rectangular). The fibrous tissue shows relatively few spindle cell nuclei of fibroblasts and large masses of pink collagen fibers.<br clear="all" />
+
+h2. Checklist: Have you identified
+
+(checklist)* boxcar nuclei in hypertrophied myocytes
+* collagen fibers
+* nuclei of fibroblasts
+-----
+EXTENDED BODY:
+
+-----
+EXCERPT:
+
+-----
+KEYWORDS:
+
+-----
+
+
+--------
+AUTHOR: zarina
+TITLE: Sarcoidosis
+BASENAME: sarcoidosis_1
+STATUS: Publish
+ALLOW COMMENTS: 0
+CONVERT BREAKS: textile_2
+ALLOW PINGS: 0
+PRIMARY CATEGORY: 02Chronic Inflammation
+CATEGORY: 02Chronic Inflammation
+DATE: 09/27/2010 11:47:45 AM
+TAGS: modcontent
+-----
+BODY:
+h3. Slide #14
+
+<div class="thumbnail"><mt:asset id="2102"> <a href="http://virtualslides.cumc.columbia.edu/Lung%20Path%2001.svs/view.apml?" target="_blank"><img alt="<mt:AssetLabel encode_html="1">" src="<mt:AssetURL>" width="170" height="104" class="mt-image-left" /></a><br /><a href="http://virtualslides.cumc.columbia.edu/Lung%20Path%2001.svs/view.apml?" target="_blank">Open with WebViewer</a> </mt:asset></div>
+
+This postmortem lung section came from a 28-year-old woman with a 3-year history of severe pulmonary sarcoidosis. She had developed diffuse reticulonodular densities in both lungs over a period of one and a half years. This was accompanied by increasing dyspnea and diminished exercise tolerance, despite steroid therapy. At her terminal admission she was hypoxic and hypercapneic despite intubation, and she suffered a cardiopulmonary arrest.<br clear="all" />
+
+h2. Questions
+
+# The major pathologic lesions in this section are located where? 
+# The lymph node, in contrast to the tuberculous lymph node of Slide #4, shows what lesion(s)?
+# What percentage of individuals with sarcoidosis pursue this type of clinical course? 
+# What other organs were likely to be involved histologically by this granulomatous process? 
+# If no historical information were provided about this case, based on the lung pathology alone, what differential diagnosis should be raised? 
+-----
+EXTENDED BODY:
+
+-----
+EXCERPT:
+
+-----
+KEYWORDS:
+
+-----
+
+
+--------
+AUTHOR: zarina
+TITLE: TB
+BASENAME: tb
+STATUS: Publish
+ALLOW COMMENTS: 0
+CONVERT BREAKS: textile_2
+ALLOW PINGS: 0
+PRIMARY CATEGORY: 02Chronic Inflammation
+CATEGORY: 02Chronic Inflammation
+DATE: 09/27/2010 11:48:12 AM
+TAGS: modcontent
+-----
+BODY:
+h3. Slide #13
+
+<div class="thumbnail"><mt:asset id="2105"> <a href="http://virtualslides.cumc.columbia.edu/Lung%20Path%2004.svs/view.apml?" target="_blank"><img alt="<mt:AssetLabel encode_html="1">" src="<mt:AssetURL>" width="170" height="102" class="mt-image-left" /></a><br /><a href="http://virtualslides.cumc.columbia.edu/Lung%20Path%2004.svs/view.apml?" target="_blank">Open with WebViewer</a> </mt:asset></div>
+
+A 26-year-old Parisian seamstress had been coughing up blood for a number of months and developed fluctuating fevers, shortness of breath and episodes of fainting. She refused medical help and was treated by a poet with patent medicines. Her symptoms increased and she died suddenly in the apartment of a friend.
+
+*<i>Note that this slide includes both lung tissue and a hilar lymph node.</i><br clear="all" />
+
+h2. Questions
+
+# What were the accompanying gross changes in this lung, based on the microscopic features? 
+# What histologic changes support the diagnosis of tuberculosis? 
+# What is the difference between a Langhans type giant cell and a foreign body giant cell? 
+# What other condition was presumably present at the time of death in this patient, based on the lung tissue microscopic findings? 
+-----
+EXTENDED BODY:
+
+-----
+EXCERPT:
+
+-----
+KEYWORDS:
+
+-----
+
+
+--------
+AUTHOR: zarina
+TITLE: Squamous Cell Carcinoma
+BASENAME: squamous_cell_carcinoma
+STATUS: Publish
+ALLOW COMMENTS: 0
+CONVERT BREAKS: textile_2
+ALLOW PINGS: 0
+PRIMARY CATEGORY: 03Neoplasia
+CATEGORY: 03Neoplasia
+DATE: 09/27/2010 11:49:01 AM
+TAGS: modcontent
+-----
+BODY:
+h3. Slide #3481
+
+<div class="thumbnail"><mt:asset id="2081"> <a href="http://virtualslides.cumc.columbia.edu/3481.svs/view.apml?" target="_blank"><img alt="<mt:AssetLabel encode_html="1">" src="<mt:AssetURL>" width="170" height="126" class="mt-image-left" /></a><br /><a href="http://virtualslides.cumc.columbia.edu/3481.svs/view.apml?" target="_blank">Open with WebViewer</a> </mt:asset></div>
+
+The patient is a 70-year-old smoker with a past medical history significant for lung cancer, treated with a wedge resection in 1997, and emphysema. He presented to the ER with hemoptysis. Exam revealed a temperature of 100.2 F and WBC of 13.9. CT scan of the chest showed a mass in the left hilum. He was taken to the OR and a left pneumonectomy was performed. The patient's recovery was unremarkable and he was discharged home to Turkey.<br clear="all" />
+
+h2. Questions
+
+# What is the predominant tissue in the slide?<br />Do you recognize some of the normal pulmonary tissue landmarks?
+# Is the tumor in this slide benign or malignant? Is it of epithelial or mesenchymal origin?
+# What is the pathogenesis of this tumor?
+# In which anatomic region of the tracheobronchial tree does this tumor usually arise?
+-----
+EXTENDED BODY:
+
+-----
+EXCERPT:
+
+-----
+KEYWORDS:
+
+-----
+
+
+--------
+AUTHOR: zarina
+TITLE: Follicular Lymphoma
+BASENAME: follicular_lymphoma_1
+STATUS: Publish
+ALLOW COMMENTS: 0
+CONVERT BREAKS: textile_2
+ALLOW PINGS: 0
+PRIMARY CATEGORY: 03Neoplasia
+CATEGORY: 03Neoplasia
+DATE: 09/27/2010 11:49:42 AM
+TAGS: modcontent
+-----
+BODY:
+<div class="thumbnail"><mt:asset id="2091"> <a href="http://virtualslides.cumc.columbia.edu/Heme%20Path%2002.svs/view.apml?" target="_blank"><img alt="<mt:AssetLabel encode_html="1">" src="<mt:AssetURL>" width="170" height="142" class="mt-image-left" /></a><br /><a href="http://virtualslides.cumc.columbia.edu/Heme%20Path%2002.svs/view.apml?" target="_blank">Open with WebViewer</a> </mt:asset></div>
+
+56-year-old male with diffuse lymphadenopathy. <br clear="all" />
+
+h2. Questions
+
+# Describe the differences between the morphology of the follicles of the previous case with this case.
+#  Diagnosis? 
+#  Associated translocation?
+-----
+EXTENDED BODY:
+
+-----
+EXCERPT:
+
+-----
+KEYWORDS:
+
+-----
+
+
+--------
+AUTHOR: zarina
+TITLE: Colon Adenoma
+BASENAME: colon_adenoma
+STATUS: Publish
+ALLOW COMMENTS: 0
+CONVERT BREAKS: textile_2
+ALLOW PINGS: 0
+PRIMARY CATEGORY: 03Neoplasia
+CATEGORY: 03Neoplasia
+DATE: 09/27/2010 11:49:59 AM
+TAGS: modcontent
+-----
+BODY:
+<div class="thumbnail"><mt:asset id="2087"> <a href="http://virtualslides.cumc.columbia.edu/GI%20Path%2004.svs/view.apml?" target="_blank"><img alt="<mt:AssetLabel encode_html="1">" src="<mt:AssetURL>" width="170" height="143" class="mt-image-left" /></a><br /><a href="http://virtualslides.cumc.columbia.edu/GI%20Path%2004.svs/view.apml?" target="_blank">Open with WebViewer</a> </mt:asset></div>
+
+A 73 year-old woman underwent a screening colonoscopy, which found a polypoid mass in the ascending colon. The mass was resected using a snare around the stalk.<br clear="all" />
+
+h2. Questions
+
+# What type of polyp was resected? 
+#  What are the appropriate gross and microscopic descriptions of the polyp? 
+#  What histologic features distinguish the abnormal areas? 
+#  What is the relationship between this lesion and colon carcinoma? 
+-----
+EXTENDED BODY:
+
+-----
+EXCERPT:
+
+-----
+KEYWORDS:
+
+-----
+
+
+--------
+AUTHOR: zarina
+TITLE: Colon Adenocarcinoma
+BASENAME: colon_adenocarcinoma
+STATUS: Publish
+ALLOW COMMENTS: 0
+CONVERT BREAKS: textile_2
+ALLOW PINGS: 0
+PRIMARY CATEGORY: 03Neoplasia
+CATEGORY: 03Neoplasia
+DATE: 09/27/2010 11:50:23 AM
+TAGS: modcontent
+-----
+BODY:
+<div class="thumbnail"><mt:asset id="2088"> <a href="http://virtualslides.cumc.columbia.edu/GI%20Path%2005.svs/view.apml?" target="_blank"><img alt="<mt:AssetLabel encode_html="1">" src="<mt:AssetURL>" width="170" height="143" class="mt-image-left" /></a><br /><a href="http://virtualslides.cumc.columbia.edu/GI%20Path%2005.svs/view.apml?" target="_blank">Open with WebViewer</a> </mt:asset></div>
+
+A 70 year old man experienced bright red blood per rectum and was found to have iron deficiency anemia. He underwent colonoscopy that revealed a large, fungating, friable mass in the sigmoid colon. The patient underwent a sigmoid colectomy.<br clear="all" />
+
+h2. Questions
+
+#  What are the histological characteristics of this mass? 
+#  What is the diagnosis? 
+#  What is the relationship of this lesion to the one seen in <mt:Entries id="9254"><a href="<mt:EntryPermalink>">slide 4 (Adenoma)</a></mt:Entries>? See description of morphologic and molecular changes. 
+-----
+EXTENDED BODY:
+
+-----
+EXCERPT:
+
+-----
+KEYWORDS:
+
+-----
+
+
+--------
