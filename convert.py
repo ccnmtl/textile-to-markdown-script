@@ -7,7 +7,7 @@ import pdb
 
 def slugify(value):
     """
-    Convert to ASCII if 'allow_unicode' is False. Convert spaces to hyphens.
+    Convert to ASCII. Convert spaces to hyphens.
     Remove characters that aren't alphanumerics, underscores, or hyphens.
     Convert to lowercase. Also strip leading and trailing whitespace.
 
@@ -23,69 +23,55 @@ def slugify(value):
 
 class Page:
     """Page is a representation of single page to be exported"""
-# join all the lines together, then regex the words between the keywords and
-# line breaks. For the body, match the lines between "BODY: " and "-----"
-    def __init__(self, lines):
+    re_author = re.compile(r'(?s)(?<=AUTHOR: )*?(?=\n)')
+    re_title = re.compile(r'(?s)(?<=TITLE: )*?(?=\n)')
+    re_status = re.compile(r'(?s)(?<=STATUS: )*?(?=\n)')
+    re_primary_category = re.compile(r'(?s)(?<=PRIMARY CATEGORY: )*?(?=\n)')
+    re_category = re.compile(r'(?s)(?<=CATEGORY: )*?(?=\n)')
+    re_date = re.compile(r'(?s)(?<=DATE: )*?(?=\n)')
+    re_body = re.compile(r'(?s)(?<=BODY:\n)*?(?=-----)')
+
+    def __init__(self, text):
         pdb.set_trace()
-        for line in lines:
-            # How do you get these values?
-            if re.match('AUTHOR', line):
-                self._author = line
-
-            if re.match('TITLE', line):
-                self._title = line
-
-            if re.match('STATUS', line):
-                self._status = line
-
-            if re.match('PRIMARY CATEGORY', line):
-                self._primary_category = line
-            else:
-                self._primary_category = 'foo'
-
-            if re.match('CATEGORY', line):
-                self._category = line
-            else:
-                self._category = 'foo'
-
-            if re.match('DATE', line):
-                self._date = line
-
-        for line in lines:
-            if re.match('BODY', line):
-                self._body = line
+        self._author = self.re_author.search(text).group()
+        self._title = self.re_title.search(text).group()
+        self._status = self.re_status.search(text).group()
+        self._primary_category = self.re_primary_category.search(text).group()
+        self._category = self.re_category.search(text).group()
+        self._date = self.re_date.search(text).group()
+        self._body = self.re_body.search(text).group()
 
     def convert_to_markdown(self):
         # TODO: create a file using the title as a file name
         # then write out the MD file
         f = open(slugify(self._title) + '.md', 'w')
         f.writelines([
-            self._author,
-            self._title,
-            self._status,
-            self._primary_category,
-            self._category,
-            self._date,
-            self._body])
+            self._author if self._author else '',
+            self._title if self._title else '',
+            self._status if self._status else '',
+            self._primary_category if self._primary_category else '',
+            self._category if self._category else '',
+            self._date if self._date else '',
+            self._body if self._body else ''])
         f.close()
 
 
-def process_file():
-    pages = []
-    with open(sys.argv[1], 'r') as source:
+def get_page(mt_export_file):
+    """ Takes in a content export from MovableType and returns a string
+    contianing the content of page"""
+    with open(mt_export_file, 'r') as source:
         line_buffer = []
         for line in source:
             if re.match(r'--------', line):
-                # export_file = open('file_%s.test' % str(filename).zfill(3), 'w')
-                # export_file.writelines(line_buffer)
-                # export_file.close()
-                pages.append(Page(line_buffer))
+                yield "".join(line_buffer)
                 line_buffer = []
             else:
                 line_buffer.append(line)
 
-    for page in pages:
-        page.convert_to_markdown()
+
+def process_file():
+    for page in get_page(sys.argv[1]):
+        Page(page).convert_to_markdown()
 
 
 if __name__ == '__main__':
