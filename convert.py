@@ -2,8 +2,6 @@ import sys
 import re
 import unicodedata
 
-import pdb
-
 
 def slugify(value):
     """
@@ -23,36 +21,48 @@ def slugify(value):
 
 class Page:
     """Page is a representation of single page to be exported"""
-    re_author = re.compile(r'(?s)(?<=AUTHOR: )*?(?=\n)')
-    re_title = re.compile(r'(?s)(?<=TITLE: )*?(?=\n)')
-    re_status = re.compile(r'(?s)(?<=STATUS: )*?(?=\n)')
-    re_primary_category = re.compile(r'(?s)(?<=PRIMARY CATEGORY: )*?(?=\n)')
-    re_category = re.compile(r'(?s)(?<=CATEGORY: )*?(?=\n)')
-    re_date = re.compile(r'(?s)(?<=DATE: )*?(?=\n)')
-    re_body = re.compile(r'(?s)(?<=BODY:\n)*?(?=-----)')
+    re_author = re.compile(r'(AUTHOR: )(.*)')
+    re_title = re.compile(r'(TITLE: )(.*)')
+    re_status = re.compile(r'(STATUS: )(.*)')
+    re_primary_category = re.compile(r'(PRIMARY CATEGORY: )(.*)')
+    re_category = re.compile(r'(CATEGORY: )(.*)')
+    re_date = re.compile(r'(DATE: )(.*)')
+    re_body = re.compile(r'(?s)(?<=BODY:\n).*?(?=-----)')
 
     def __init__(self, text):
-        pdb.set_trace()
-        self._author = self.re_author.search(text).group()
-        self._title = self.re_title.search(text).group()
-        self._status = self.re_status.search(text).group()
-        self._primary_category = self.re_primary_category.search(text).group()
-        self._category = self.re_category.search(text).group()
-        self._date = self.re_date.search(text).group()
-        self._body = self.re_body.search(text).group()
+        author = self.re_author.search(text)
+        self._author = author.group(2) if author and author.group(2) else ''
+
+        title = self.re_title.search(text)
+        self._title = title.group(2) if title and title.group(2) else ''
+
+        status = self.re_status.search(text)
+        self._status = status.group(2) if status and status.group(2) else ''
+
+        primary_category = self.re_primary_category.search(text)
+        self._primary_category = primary_category.group(2) if primary_category\
+            and primary_category.group(2) else ''
+
+        category = self.re_category.search(text)
+        self._category = category.group(2) if category and category.group(2)\
+            else ''
+
+        date = self.re_date.search(text)
+        self._date = date.group(2) if date and date.group(2) else ''
+
+        body = self.re_body.search(text)
+        self._body = body.group() if body else ''
 
     def convert_to_markdown(self):
-        # TODO: create a file using the title as a file name
-        # then write out the MD file
         f = open(slugify(self._title) + '.md', 'w')
         f.writelines([
-            self._author if self._author else '',
-            self._title if self._title else '',
-            self._status if self._status else '',
-            self._primary_category if self._primary_category else '',
-            self._category if self._category else '',
-            self._date if self._date else '',
-            self._body if self._body else ''])
+            self._author,
+            self._title,
+            self._status,
+            self._primary_category,
+            self._category,
+            self._date,
+            self._body])
         f.close()
 
 
