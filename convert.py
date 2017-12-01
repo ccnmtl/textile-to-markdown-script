@@ -2,6 +2,8 @@ import sys
 import re
 import unicodedata
 
+import pypandoc
+
 
 def slugify(value):
     """
@@ -62,7 +64,7 @@ class Page:
             self._primary_category,
             self._category,
             self._date,
-            self._body])
+            pypandoc.convert_text(self._body, 'textile', format='md')])
         f.close()
 
 
@@ -79,13 +81,18 @@ def get_page(mt_export_file):
                 line_buffer.append(line)
 
 
-def process_file():
-    for page in get_page(sys.argv[1]):
+def process_file(filename):
+    for page in get_page(filename):
         Page(page).convert_to_markdown()
 
 
 if __name__ == '__main__':
-    if (sys.argv[1]):
-        process_file()
-    else:
-        print("Please pass in file")
+    while True:
+        filename = input("Please enter a file name: ")
+        try:
+            process_file(filename)
+        except OSError:
+            print("Huh, didn't catch it. Try one more time. Thanks.")
+        except (KeyboardInterrupt, EOFError):
+            sys.exc_clear()
+            pass
