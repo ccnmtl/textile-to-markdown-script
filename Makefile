@@ -16,7 +16,7 @@ $(PY_SENTINAL): $(REQUIREMENTS) $(VIRTUALENV) $(SUPPORT_DIR)*
 	rm -rf $(VE)
 	$(SYS_PYTHON) $(VIRTUALENV) --extra-search-dir=$(SUPPORT_DIR) --never-download $(VE)
 	$(PIP) install wheel==$(WHEEL_VERSION)
-	$(PIP) install --use-wheel --no-deps --requirement $(REQUIREMENTS)
+	$(PIP) install --use-wheel --requirement $(REQUIREMENTS)
 	$(SYS_PYTHON) $(VIRTUALENV) --relocatable $(VE)
 	touch $@
 
@@ -28,6 +28,9 @@ run: $(PY_SENTINAL)
 
 test: $(PY_SENTINAL)
 	$(VE)/bin/python -m tests.test_data_processor
+
+shell: $(PY_SENTINAL)
+	$(VE)/bin/scrapy
 
 clean:
 	rm -rf ve
